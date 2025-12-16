@@ -11,31 +11,7 @@ st.set_page_config(page_title="Dashboard Educativo", page_icon="📊", layout="w
 # -----------------------------
 # CSS (sidebar + ajustes suaves)
 # -----------------------------
-st.markdown("""
-<style>
-.block-container {padding-top: 1.2rem;}
 
-section[data-testid="stSidebar"] {
-  background: #f6f7fb;
-  border-right: 1px solid #e9edf5;
-}
-
-.sidebar-title {
-  font-weight: 700;
-  margin: 0.2rem 0 0.8rem 0;
-  font-size: 1.05rem;
-}
-
-.logo-box{
-  background: white;
-  border: 1px solid #e9edf5;
-  border-radius: 14px;
-  padding: 12px;
-  margin-bottom: 12px;
-  box-shadow: 0 6px 18px rgba(0,0,0,.04);
-}
-</style>
-""", unsafe_allow_html=True)
 
 # -----------------------------
 # Rutas robustas (funciona aunque estés en pages/)
