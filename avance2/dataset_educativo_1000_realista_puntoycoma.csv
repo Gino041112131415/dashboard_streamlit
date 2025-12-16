@@ -1,0 +1,1001 @@
+﻿Periodo;Mes;Sede;Turno;Grado;Seccion;Seccion_ID;Curso;Docente_ID;Inscripciones;Retiros;Asistencia_Promedio_%;Asistencia_Escala;Promedio_Final;Aprobados;Desaprobados
+2024-I;Mar;Lima Centro;Tarde;4 Sec;C;2024-I-LimaCentro-4SecC-T;Matematica;D465;34;0;70.2;Media;13.25;22;12
+2025-I;Nov;San Juan;Manana;3 Sec;A;2025-I-SanJuan-3SecA-M;Matematica;D171;37;0;82.3;Alta;10.02;20;17
+2024-II;Ago;Ate;Noche;3 Sec;D;2024-II-Ate-3SecD-N;Comunicacion;D909;19;1;71.7;Media;11.67;11;8
+2025-I;Jun;San Juan;Manana;3 Sec;A;2025-I-SanJuan-3SecA-M;Economia;D454;35;0;84.3;Alta;12.58;24;11
+2025-I;Abr;Callao;Manana;2 Sec;C;2025-I-Callao-2SecC-M;Ciencia;D344;40;0;89.4;Alta;11.62;27;13
+2024-II;Mar;Callao;Manana;5 Sec;D;2024-II-Callao-5SecD-M;Comunicacion;D199;31;0;100.0;Muy Alta;14.19;26;5
+2024-II;Nov;Lima Centro;Manana;1 Sec;C;2024-II-LimaCentro-1SecC-M;Biologia;D724;48;0;92.8;Muy Alta;12.05;34;14
+2024-I;Nov;Callao;Manana;5 Sec;A;2024-I-Callao-5SecA-M;Fisica;D330;37;0;81.1;Alta;11.15;22;15
+2024-I;May;San Juan;Tarde;5 Sec;D;2024-I-SanJuan-5SecD-T;Ciencia;D883;30;2;97.7;Muy Alta;13.05;23;7
+2024-II;Oct;Lima Centro;Manana;1 Sec;A;2024-II-LimaCentro-1SecA-M;Comunicacion;D599;43;1;84.8;Alta;13.44;32;11
+2024-II;May;Lima Centro;Tarde;3 Sec;C;2024-II-LimaCentro-3SecC-T;Historia;D291;31;0;86.6;Alta;11.76;20;11
+2025-I;Jul;Surco;Noche;1 Sec;A;2025-I-Surco-1SecA-N;Computacion;D149;18;0;67.6;Baja;11.02;9;9
+2024-II;Oct;Lima Centro;Tarde;5 Sec;A;2024-II-LimaCentro-5SecA-T;Ciencia;D827;30;0;79.5;Media;8.58;14;16
+2024-I;Jul;Surco;Tarde;3 Sec;C;2024-I-Surco-3SecC-T;Biologia;D539;38;0;82.6;Alta;12.15;25;13
+2024-I;Jun;Surco;Manana;4 Sec;B;2024-I-Surco-4SecB-M;Computacion;D149;47;1;93.5;Muy Alta;12.84;35;12
+2025-I;Mar;Lima Centro;Tarde;3 Sec;B;2025-I-LimaCentro-3SecB-T;Comunicacion;D599;35;0;98.2;Muy Alta;12.61;27;8
+2024-I;Abr;San Juan;Manana;2 Sec;D;2024-I-SanJuan-2SecD-M;Computacion;D785;39;0;87.5;Alta;13.21;29;10
+2024-II;Mar;Ate;Tarde;4 Sec;C;2024-II-Ate-4SecC-T;Quimica;D533;23;0;83.4;Alta;12.83;16;7
+2025-I;Abr;Ate;Tarde;2 Sec;D;2025-I-Ate-2SecD-T;Biologia;D127;34;1;85.2;Alta;11.78;22;12
+2024-I;Sep;San Juan;Manana;3 Sec;B;2024-I-SanJuan-3SecB-M;Comunicacion;D562;39;0;84.0;Alta;11.54;25;14
+2024-II;Abr;Ate;Manana;2 Sec;B;2024-II-Ate-2SecB-M;Ciencia;D110;35;0;89.7;Alta;10.46;21;14
+2025-I;Ago;Callao;Manana;2 Sec;B;2025-I-Callao-2SecB-M;Matematica;D944;28;0;90.0;Muy Alta;10.77;17;11
+2024-I;Jul;Ate;Manana;3 Sec;A;2024-I-Ate-3SecA-M;Matematica;D906;29;1;82.7;Alta;9.57;15;14
+2024-II;Nov;Callao;Manana;2 Sec;B;2024-II-Callao-2SecB-M;Ingles;D567;29;0;91.3;Muy Alta;11.93;20;9
+2025-I;Jun;Callao;Manana;5 Sec;A;2025-I-Callao-5SecA-M;Historia;D246;44;0;93.1;Muy Alta;11.22;29;15
+2024-I;Jun;Callao;Manana;2 Sec;D;2024-I-Callao-2SecD-M;Historia;D246;32;0;83.0;Alta;10.86;19;13
+2024-II;Oct;Lima Centro;Manana;4 Sec;A;2024-II-LimaCentro-4SecA-M;Comunicacion;D599;25;0;90.6;Muy Alta;9.66;14;11
+2025-I;Oct;Ate;Tarde;2 Sec;B;2025-I-Ate-2SecB-T;Historia;D583;34;0;75.6;Media;10.24;18;16
+2024-II;Abr;Callao;Manana;2 Sec;C;2024-II-Callao-2SecC-M;Ciencia;D344;40;1;93.2;Muy Alta;10.61;25;15
+2024-II;Oct;Surco;Tarde;4 Sec;B;2024-II-Surco-4SecB-T;Economia;D786;32;1;80.3;Alta;11.36;19;13
+2024-I;Oct;Ate;Manana;2 Sec;C;2024-I-Ate-2SecC-M;Computacion;D170;33;1;82.0;Alta;12.24;22;11
+2024-II;Nov;Callao;Manana;5 Sec;D;2024-II-Callao-5SecD-M;Computacion;D744;34;1;87.6;Alta;12.62;24;10
+2024-II;May;San Juan;Tarde;4 Sec;A;2024-II-SanJuan-4SecA-T;Biologia;D815;25;1;84.7;Alta;12.26;17;8
+2024-II;Nov;Callao;Tarde;1 Sec;B;2024-II-Callao-1SecB-T;Economia;D633;23;0;83.5;Alta;11.53;14;9
+2024-II;Jul;San Juan;Manana;2 Sec;D;2024-II-SanJuan-2SecD-M;Biologia;D815;31;1;80.5;Alta;12.67;21;10
+2025-I;Jun;Lima Centro;Tarde;4 Sec;C;2025-I-LimaCentro-4SecC-T;Ciencia;D827;37;0;97.4;Muy Alta;9.97;23;14
+2025-I;Jul;San Juan;Manana;1 Sec;D;2025-I-SanJuan-1SecD-M;Comunicacion;D562;41;1;88.4;Alta;12.61;29;12
+2024-I;Nov;Ate;Tarde;5 Sec;D;2024-I-Ate-5SecD-T;Ciencia;D110;27;0;92.5;Muy Alta;11.85;19;8
+2024-II;Oct;Lima Centro;Tarde;4 Sec;C;2024-II-LimaCentro-4SecC-T;Computacion;D324;27;0;88.6;Alta;10.5;16;11
+2024-I;Sep;Lima Centro;Tarde;4 Sec;B;2024-I-LimaCentro-4SecB-T;Computacion;D324;34;0;83.9;Alta;9.75;18;16
+2024-II;Mar;Ate;Tarde;3 Sec;B;2024-II-Ate-3SecB-T;Quimica;D533;28;0;81.4;Alta;9.04;14;14
+2024-II;Ago;Ate;Tarde;3 Sec;C;2024-II-Ate-3SecC-T;Fisica;D426;24;1;87.7;Alta;12.53;17;7
+2024-II;Oct;Callao;Tarde;2 Sec;C;2024-II-Callao-2SecC-T;Fisica;D330;30;0;83.0;Alta;10.09;17;13
+2024-II;Sep;Callao;Manana;5 Sec;D;2024-II-Callao-5SecD-M;Matematica;D944;23;0;94.7;Muy Alta;11.16;15;8
+2024-II;Oct;Surco;Tarde;4 Sec;A;2024-II-Surco-4SecA-T;Computacion;D149;36;0;81.4;Alta;14.57;28;8
+2025-I;Nov;San Juan;Manana;5 Sec;B;2025-I-SanJuan-5SecB-M;Quimica;D395;31;0;82.3;Alta;11.2;19;12
+2024-II;Mar;Surco;Manana;2 Sec;C;2024-II-Surco-2SecC-M;Comunicacion;D751;39;0;85.5;Alta;12.99;28;11
+2025-I;Abr;San Juan;Manana;4 Sec;A;2025-I-SanJuan-4SecA-M;Ingles;D269;27;0;88.9;Alta;11.86;18;9
+2024-I;Ago;Lima Centro;Tarde;5 Sec;A;2024-I-LimaCentro-5SecA-T;Biologia;D724;33;0;77.9;Media;12.33;21;12
+2025-I;May;Lima Centro;Manana;3 Sec;A;2025-I-LimaCentro-3SecA-M;Ciencia;D827;40;0;95.0;Muy Alta;10.7;26;14
+2024-II;Oct;Callao;Manana;4 Sec;B;2024-II-Callao-4SecB-M;Fisica;D330;38;0;78.4;Media;12.16;24;14
+2024-II;Sep;Callao;Manana;2 Sec;C;2024-II-Callao-2SecC-M;Ingles;D567;28;0;88.4;Alta;14.72;23;5
+2024-II;Ago;San Juan;Tarde;5 Sec;B;2024-II-SanJuan-5SecB-T;Matematica;D171;22;0;86.3;Alta;12.04;15;7
+2024-II;Nov;Ate;Tarde;5 Sec;A;2024-II-Ate-5SecA-T;Ingles;D934;25;2;84.6;Alta;10.75;15;10
+2024-II;Sep;Surco;Tarde;3 Sec;B;2024-II-Surco-3SecB-T;Computacion;D149;27;0;77.9;Media;10.03;14;13
+2024-I;Abr;Callao;Manana;4 Sec;B;2024-I-Callao-4SecB-M;Quimica;D828;32;0;84.3;Alta;12.4;22;10
+2024-I;Jun;Surco;Manana;5 Sec;B;2024-I-Surco-5SecB-M;Ingles;D292;29;0;93.4;Muy Alta;12.95;22;7
+2025-I;Ago;Surco;Manana;4 Sec;B;2025-I-Surco-4SecB-M;Matematica;D261;31;1;83.9;Alta;9.55;16;15
+2024-II;Jul;Callao;Tarde;3 Sec;A;2024-II-Callao-3SecA-T;Biologia;D818;34;0;81.6;Alta;10.03;19;15
+2024-II;May;Surco;Noche;4 Sec;D;2024-II-Surco-4SecD-N;Biologia;D539;22;0;81.9;Alta;10.6;12;10
+2025-I;Mar;Ate;Manana;1 Sec;C;2025-I-Ate-1SecC-M;Ciencia;D110;29;0;93.6;Muy Alta;10.53;18;11
+2024-II;May;Lima Centro;Tarde;1 Sec;B;2024-II-LimaCentro-1SecB-T;Historia;D291;30;1;77.4;Media;13.0;20;10
+2024-I;Jul;Lima Centro;Manana;1 Sec;B;2024-I-LimaCentro-1SecB-M;Economia;D261;30;0;100.0;Muy Alta;12.99;23;7
+2024-I;Mar;Lima Centro;Noche;3 Sec;C;2024-I-LimaCentro-3SecC-N;Computacion;D324;29;1;73.0;Media;10.93;16;13
+2024-II;May;Lima Centro;Tarde;1 Sec;D;2024-II-LimaCentro-1SecD-T;Historia;D291;35;1;69.5;Baja;11.17;19;16
+2024-I;Oct;Ate;Noche;4 Sec;D;2024-I-Ate-4SecD-N;Historia;D583;22;0;80.8;Alta;11.27;13;9
+2025-I;Mar;Callao;Tarde;4 Sec;D;2025-I-Callao-4SecD-T;Computacion;D744;26;1;80.9;Alta;10.5;15;11
+2025-I;Abr;Surco;Manana;4 Sec;B;2025-I-Surco-4SecB-M;Biologia;D539;40;2;100.0;Muy Alta;14.45;34;6
+2025-I;May;Ate;Tarde;1 Sec;B;2025-I-Ate-1SecB-T;Economia;D876;34;0;79.6;Media;14.91;26;8
+2024-II;Ago;Ate;Manana;5 Sec;D;2024-II-Ate-5SecD-M;Computacion;D170;32;0;86.1;Alta;9.9;18;14
+2025-I;Ago;Callao;Tarde;4 Sec;C;2025-I-Callao-4SecC-T;Biologia;D818;27;0;81.0;Alta;13.16;19;8
+2024-I;Sep;Callao;Manana;1 Sec;A;2024-I-Callao-1SecA-M;Comunicacion;D199;44;0;91.7;Muy Alta;12.73;32;12
+2024-I;Jun;Lima Centro;Manana;4 Sec;A;2024-I-LimaCentro-4SecA-M;Fisica;D677;38;0;81.6;Alta;10.59;22;16
+2024-II;Abr;Ate;Manana;2 Sec;D;2024-II-Ate-2SecD-M;Fisica;D426;39;1;86.8;Alta;11.38;25;14
+2025-I;Nov;Callao;Noche;5 Sec;A;2025-I-Callao-5SecA-N;Biologia;D818;22;0;75.1;Media;11.28;12;10
+2024-II;Jul;Lima Centro;Manana;4 Sec;B;2024-II-LimaCentro-4SecB-M;Historia;D291;35;0;84.3;Alta;12.19;23;12
+2024-I;Abr;San Juan;Manana;3 Sec;D;2024-I-SanJuan-3SecD-M;Historia;D452;35;0;94.5;Muy Alta;15.29;31;4
+2024-I;May;Lima Centro;Noche;5 Sec;C;2024-I-LimaCentro-5SecC-N;Fisica;D677;17;0;82.4;Alta;11.0;10;7
+2024-I;Jul;Surco;Manana;3 Sec;D;2024-I-Surco-3SecD-M;Matematica;D261;25;0;84.0;Alta;11.66;16;9
+2024-I;Abr;Lima Centro;Manana;3 Sec;B;2024-I-LimaCentro-3SecB-M;Ingles;D966;30;0;89.8;Alta;10.13;18;12
+2024-I;Sep;Surco;Manana;3 Sec;B;2024-I-Surco-3SecB-M;Historia;D203;41;0;91.9;Muy Alta;14.3;33;8
+2024-II;Abr;Surco;Tarde;2 Sec;B;2024-II-Surco-2SecB-T;Biologia;D539;24;0;83.1;Alta;11.77;15;9
+2024-II;Mar;Ate;Noche;4 Sec;A;2024-II-Ate-4SecA-N;Computacion;D170;18;0;83.9;Alta;10.12;10;8
+2025-I;Jun;Surco;Manana;2 Sec;C;2025-I-Surco-2SecC-M;Computacion;D149;27;0;96.2;Muy Alta;12.67;20;7
+2025-I;Abr;San Juan;Manana;3 Sec;D;2025-I-SanJuan-3SecD-M;Ingles;D269;37;0;93.5;Muy Alta;14.23;30;7
+2024-II;Jul;Callao;Noche;5 Sec;D;2024-II-Callao-5SecD-N;Computacion;D744;23;0;82.6;Alta;13.28;16;7
+2024-II;Mar;Callao;Tarde;1 Sec;C;2024-II-Callao-1SecC-T;Computacion;D744;37;0;81.1;Alta;10.5;21;16
+2025-I;Nov;San Juan;Tarde;1 Sec;B;2025-I-SanJuan-1SecB-T;Historia;D452;32;0;76.0;Media;8.49;14;18
+2025-I;Jul;San Juan;Manana;5 Sec;A;2025-I-SanJuan-5SecA-M;Historia;D452;26;0;89.1;Alta;11.85;17;9
+2024-II;Jul;Lima Centro;Manana;1 Sec;D;2024-II-LimaCentro-1SecD-M;Ingles;D966;35;1;88.9;Alta;11.66;23;12
+2025-I;Ago;San Juan;Tarde;5 Sec;C;2025-I-SanJuan-5SecC-T;Quimica;D395;23;0;82.5;Alta;12.66;15;8
+2025-I;Ago;Surco;Manana;4 Sec;B;2025-I-Surco-4SecB-M;Matematica;D261;32;0;92.6;Muy Alta;13.25;24;8
+2024-I;Ago;San Juan;Manana;4 Sec;A;2024-I-SanJuan-4SecA-M;Computacion;D785;34;1;100.0;Muy Alta;16.07;32;2
+2025-I;Sep;Ate;Manana;2 Sec;A;2025-I-Ate-2SecA-M;Economia;D876;28;1;73.6;Media;12.41;17;11
+2024-I;Ago;San Juan;Manana;4 Sec;B;2024-I-SanJuan-4SecB-M;Comunicacion;D562;39;0;84.5;Alta;13.19;28;11
+2024-II;Ago;Callao;Manana;5 Sec;C;2024-II-Callao-5SecC-M;Quimica;D828;34;0;95.4;Muy Alta;13.57;27;7
+2025-I;Mar;San Juan;Manana;2 Sec;A;2025-I-SanJuan-2SecA-M;Ingles;D269;36;0;85.4;Alta;14.61;29;7
+2025-I;Abr;Lima Centro;Manana;2 Sec;B;2025-I-LimaCentro-2SecB-M;Matematica;D465;31;0;90.0;Muy Alta;9.06;17;14
+2024-I;Abr;San Juan;Manana;1 Sec;C;2024-I-SanJuan-1SecC-M;Historia;D452;34;0;89.6;Alta;11.66;23;11
+2024-II;Ago;Surco;Tarde;2 Sec;C;2024-II-Surco-2SecC-T;Economia;D786;29;0;75.2;Media;9.9;15;14
+2024-I;Nov;Surco;Manana;2 Sec;A;2024-I-Surco-2SecA-M;Computacion;D149;38;1;93.7;Muy Alta;10.75;24;14
+2024-II;May;Surco;Manana;3 Sec;A;2024-II-Surco-3SecA-M;Ciencia;D130;38;0;77.8;Media;10.75;21;17
+2025-I;Jun;San Juan;Tarde;2 Sec;A;2025-I-SanJuan-2SecA-T;Biologia;D815;28;0;84.8;Alta;12.02;18;10
+2024-II;Nov;San Juan;Tarde;4 Sec;D;2024-II-SanJuan-4SecD-T;Historia;D452;30;1;80.7;Alta;9.9;16;14
+2024-II;Mar;Ate;Manana;2 Sec;D;2024-II-Ate-2SecD-M;Biologia;D127;39;0;84.0;Alta;10.65;23;16
+2025-I;Ago;Callao;Manana;4 Sec;C;2025-I-Callao-4SecC-M;Historia;D246;44;1;83.4;Alta;11.15;27;17
+2025-I;Jul;Lima Centro;Noche;5 Sec;A;2025-I-LimaCentro-5SecA-N;Economia;D261;21;0;78.0;Media;12.28;13;8
+2025-I;Mar;Lima Centro;Tarde;4 Sec;A;2025-I-LimaCentro-4SecA-T;Computacion;D324;33;0;87.2;Alta;12.65;23;10
+2024-I;May;San Juan;Manana;3 Sec;A;2024-I-SanJuan-3SecA-M;Economia;D454;38;0;90.7;Muy Alta;12.28;27;11
+2024-II;May;Ate;Manana;1 Sec;B;2024-II-Ate-1SecB-M;Historia;D583;31;0;91.2;Muy Alta;12.01;21;10
+2024-II;Nov;Ate;Manana;5 Sec;D;2024-II-Ate-5SecD-M;Fisica;D426;37;0;88.0;Alta;10.34;22;15
+2024-I;Jun;Ate;Manana;1 Sec;C;2024-I-Ate-1SecC-M;Ingles;D934;38;1;87.6;Alta;11.27;24;14
+2024-II;Sep;San Juan;Manana;1 Sec;B;2024-II-SanJuan-1SecB-M;Fisica;D801;30;0;95.9;Muy Alta;11.05;20;10
+2024-II;Mar;Lima Centro;Manana;3 Sec;B;2024-II-LimaCentro-3SecB-M;Economia;D261;44;0;80.2;Alta;13.86;32;12
+2025-I;Mar;Ate;Manana;1 Sec;B;2025-I-Ate-1SecB-M;Biologia;D127;30;2;89.8;Alta;11.86;20;10
+2025-I;Mar;Ate;Manana;2 Sec;A;2025-I-Ate-2SecA-M;Ciencia;D110;44;0;91.1;Muy Alta;13.36;34;10
+2024-I;Ago;San Juan;Manana;4 Sec;A;2024-I-SanJuan-4SecA-M;Computacion;D785;36;0;76.5;Media;8.09;15;21
+2024-I;Sep;Lima Centro;Manana;2 Sec;B;2024-I-LimaCentro-2SecB-M;Biologia;D724;49;1;90.2;Muy Alta;12.57;35;14
+2024-II;Jun;Callao;Tarde;4 Sec;C;2024-II-Callao-4SecC-T;Ciencia;D344;30;0;80.0;Alta;14.01;22;8
+2024-I;Ago;Callao;Noche;2 Sec;D;2024-I-Callao-2SecD-N;Historia;D246;20;1;92.3;Muy Alta;12.83;15;5
+2024-I;May;Surco;Noche;5 Sec;B;2024-I-Surco-5SecB-N;Quimica;D890;18;0;78.0;Media;11.03;10;8
+2024-II;Jun;Lima Centro;Manana;5 Sec;B;2024-II-LimaCentro-5SecB-M;Ingles;D966;38;1;74.1;Media;10.88;21;17
+2024-I;Jul;Ate;Tarde;3 Sec;A;2024-I-Ate-3SecA-T;Ciencia;D110;24;0;72.0;Media;10.39;12;12
+2025-I;Ago;San Juan;Tarde;1 Sec;D;2025-I-SanJuan-1SecD-T;Fisica;D801;35;0;83.2;Alta;10.71;21;14
+2025-I;Mar;Surco;Manana;3 Sec;B;2025-I-Surco-3SecB-M;Biologia;D539;41;1;90.7;Muy Alta;14.03;33;8
+2024-I;Ago;Callao;Manana;5 Sec;B;2024-I-Callao-5SecB-M;Fisica;D330;40;0;87.1;Alta;12.29;28;12
+2024-II;Oct;Lima Centro;Tarde;4 Sec;B;2024-II-LimaCentro-4SecB-T;Economia;D261;22;0;79.5;Media;13.37;15;7
+2025-I;Ago;San Juan;Tarde;2 Sec;C;2025-I-SanJuan-2SecC-T;Matematica;D171;28;0;95.6;Muy Alta;8.42;15;13
+2025-I;Sep;Ate;Tarde;4 Sec;D;2025-I-Ate-4SecD-T;Matematica;D906;26;0;89.0;Alta;8.6;13;13
+2024-I;Oct;San Juan;Manana;1 Sec;B;2024-I-SanJuan-1SecB-M;Economia;D454;41;0;88.2;Alta;10.72;25;16
+2024-I;Ago;Ate;Tarde;4 Sec;A;2024-I-Ate-4SecA-T;Fisica;D426;21;0;83.1;Alta;8.77;10;11
+2025-I;Jun;Surco;Tarde;3 Sec;A;2025-I-Surco-3SecA-T;Historia;D203;31;1;79.2;Media;13.1;21;10
+2025-I;Jun;Callao;Tarde;4 Sec;C;2025-I-Callao-4SecC-T;Computacion;D744;34;0;82.7;Alta;12.41;23;11
+2024-I;Sep;Ate;Manana;4 Sec;A;2024-I-Ate-4SecA-M;Quimica;D533;42;0;93.7;Muy Alta;11.8;29;13
+2024-II;Jul;Surco;Manana;1 Sec;D;2024-II-Surco-1SecD-M;Ingles;D292;33;1;87.3;Alta;12.02;22;11
+2025-I;Oct;San Juan;Manana;2 Sec;D;2025-I-SanJuan-2SecD-M;Matematica;D171;33;1;86.0;Alta;12.17;22;11
+2025-I;May;Callao;Manana;1 Sec;C;2025-I-Callao-1SecC-M;Comunicacion;D199;43;0;74.2;Media;10.92;24;19
+2024-I;Oct;Lima Centro;Manana;3 Sec;C;2024-I-LimaCentro-3SecC-M;Biologia;D724;37;2;91.9;Muy Alta;11.69;25;12
+2024-II;Nov;Ate;Manana;5 Sec;A;2024-II-Ate-5SecA-M;Comunicacion;D909;44;0;89.0;Alta;11.05;28;16
+2025-I;Mar;Lima Centro;Tarde;2 Sec;A;2025-I-LimaCentro-2SecA-T;Ingles;D966;34;0;76.3;Media;11.38;20;14
+2024-II;May;San Juan;Manana;2 Sec;D;2024-II-SanJuan-2SecD-M;Matematica;D171;29;0;96.1;Muy Alta;11.16;19;10
+2024-I;Nov;Callao;Tarde;3 Sec;D;2024-I-Callao-3SecD-T;Historia;D246;32;0;95.4;Muy Alta;14.6;27;5
+2024-I;May;San Juan;Manana;3 Sec;B;2024-I-SanJuan-3SecB-M;Historia;D452;47;0;81.2;Alta;12.97;33;14
+2024-I;May;Callao;Manana;3 Sec;C;2024-I-Callao-3SecC-M;Ciencia;D344;42;0;93.7;Muy Alta;13.18;32;10
+2025-I;Mar;Ate;Manana;4 Sec;C;2025-I-Ate-4SecC-M;Ciencia;D110;33;0;81.9;Alta;11.64;21;12
+2024-I;Oct;Ate;Tarde;3 Sec;A;2024-I-Ate-3SecA-T;Ingles;D934;35;1;85.9;Alta;9.84;20;15
+2024-I;Oct;Surco;Manana;2 Sec;C;2024-I-Surco-2SecC-M;Matematica;D261;42;0;80.4;Alta;11.64;26;16
+2024-II;Jun;Ate;Tarde;1 Sec;D;2024-II-Ate-1SecD-T;Comunicacion;D909;26;1;91.7;Muy Alta;13.48;20;6
+2024-I;Ago;Lima Centro;Manana;5 Sec;A;2024-I-LimaCentro-5SecA-M;Fisica;D677;30;0;83.7;Alta;11.65;19;11
+2024-I;Abr;San Juan;Tarde;2 Sec;D;2024-I-SanJuan-2SecD-T;Fisica;D801;34;1;83.9;Alta;12.24;23;11
+2024-I;May;Callao;Manana;1 Sec;A;2024-I-Callao-1SecA-M;Comunicacion;D199;33;1;88.3;Alta;13.08;24;9
+2024-II;Abr;Callao;Noche;1 Sec;D;2024-II-Callao-1SecD-N;Quimica;D828;20;0;74.2;Media;12.46;12;8
+2024-II;Abr;Surco;Manana;3 Sec;B;2024-II-Surco-3SecB-M;Ciencia;D130;26;1;83.8;Alta;11.94;17;9
+2024-II;Jul;Callao;Noche;5 Sec;B;2024-II-Callao-5SecB-N;Economia;D633;17;0;87.3;Alta;13.85;13;4
+2024-I;Ago;Callao;Tarde;1 Sec;C;2024-I-Callao-1SecC-T;Computacion;D744;29;0;86.5;Alta;12.89;21;8
+2024-I;Jun;Surco;Tarde;3 Sec;C;2024-I-Surco-3SecC-T;Economia;D786;30;0;78.6;Media;11.61;18;12
+2024-II;Jun;Ate;Manana;3 Sec;D;2024-II-Ate-3SecD-M;Quimica;D533;29;0;91.2;Muy Alta;13.24;22;7
+2025-I;Mar;Ate;Tarde;3 Sec;A;2025-I-Ate-3SecA-T;Matematica;D906;30;1;73.1;Media;8.12;12;18
+2025-I;May;Lima Centro;Tarde;4 Sec;D;2025-I-LimaCentro-4SecD-T;Economia;D261;27;0;81.3;Alta;11.2;16;11
+2024-I;Oct;Surco;Tarde;4 Sec;D;2024-I-Surco-4SecD-T;Fisica;D879;35;1;85.2;Alta;11.17;22;13
+2024-I;May;Ate;Tarde;5 Sec;B;2024-I-Ate-5SecB-T;Ciencia;D110;30;0;82.4;Alta;10.52;17;13
+2025-I;Jun;San Juan;Tarde;3 Sec;A;2025-I-SanJuan-3SecA-T;Ingles;D269;34;0;100.0;Muy Alta;11.04;23;11
+2025-I;Jul;Surco;Tarde;3 Sec;C;2025-I-Surco-3SecC-T;Economia;D786;26;0;81.6;Alta;12.26;17;9
+2024-II;Oct;San Juan;Tarde;2 Sec;D;2024-II-SanJuan-2SecD-T;Economia;D454;28;0;91.2;Muy Alta;14.38;23;5
+2025-I;Nov;San Juan;Manana;1 Sec;B;2025-I-SanJuan-1SecB-M;Computacion;D785;40;1;91.8;Muy Alta;11.96;28;12
+2025-I;Mar;Ate;Manana;1 Sec;B;2025-I-Ate-1SecB-M;Quimica;D533;31;1;91.7;Muy Alta;12.5;22;9
+2024-II;May;Surco;Tarde;4 Sec;B;2024-II-Surco-4SecB-T;Economia;D786;36;0;80.8;Alta;11.73;23;13
+2025-I;Abr;San Juan;Tarde;1 Sec;C;2025-I-SanJuan-1SecC-T;Comunicacion;D562;29;1;96.3;Muy Alta;12.17;21;8
+2024-I;Abr;San Juan;Tarde;4 Sec;A;2024-I-SanJuan-4SecA-T;Economia;D454;36;0;86.2;Alta;11.69;23;13
+2024-I;May;San Juan;Manana;1 Sec;C;2024-I-SanJuan-1SecC-M;Biologia;D815;37;0;92.1;Muy Alta;10.03;22;15
+2024-I;Oct;Surco;Manana;3 Sec;A;2024-I-Surco-3SecA-M;Ciencia;D130;44;0;100.0;Muy Alta;10.93;30;14
+2024-I;May;San Juan;Tarde;1 Sec;D;2024-I-SanJuan-1SecD-T;Ingles;D269;40;1;100.0;Muy Alta;11.28;28;12
+2025-I;Mar;San Juan;Tarde;3 Sec;A;2025-I-SanJuan-3SecA-T;Biologia;D815;29;0;83.9;Alta;10.14;16;13
+2024-I;Sep;San Juan;Noche;1 Sec;A;2024-I-SanJuan-1SecA-N;Comunicacion;D562;22;0;86.5;Alta;12.42;15;7
+2024-II;May;San Juan;Noche;5 Sec;C;2024-II-SanJuan-5SecC-N;Matematica;D171;21;1;76.8;Media;9.89;11;10
+2024-I;Mar;Ate;Tarde;3 Sec;B;2024-I-Ate-3SecB-T;Economia;D876;32;0;87.8;Alta;12.25;22;10
+2024-II;Sep;San Juan;Tarde;1 Sec;D;2024-II-SanJuan-1SecD-T;Historia;D452;34;1;83.6;Alta;11.18;21;13
+2024-II;Mar;Surco;Tarde;3 Sec;A;2024-II-Surco-3SecA-T;Matematica;D261;31;0;92.6;Muy Alta;10.85;20;11
+2024-I;Nov;Ate;Tarde;5 Sec;A;2024-I-Ate-5SecA-T;Economia;D876;23;0;94.0;Muy Alta;12.58;17;6
+2024-II;May;Callao;Manana;5 Sec;B;2024-II-Callao-5SecB-M;Economia;D633;25;0;90.5;Muy Alta;11.23;16;9
+2024-II;Mar;San Juan;Manana;5 Sec;C;2024-II-SanJuan-5SecC-M;Economia;D454;32;1;88.1;Alta;10.44;19;13
+2024-I;Mar;Surco;Manana;3 Sec;A;2024-I-Surco-3SecA-M;Fisica;D879;32;0;90.2;Muy Alta;11.85;22;10
+2025-I;Sep;Callao;Tarde;4 Sec;A;2025-I-Callao-4SecA-T;Economia;D633;35;0;80.5;Alta;11.85;22;13
+2024-I;Mar;Ate;Noche;2 Sec;C;2024-I-Ate-2SecC-N;Computacion;D170;16;0;90.8;Muy Alta;10.8;10;6
+2024-I;Jun;Callao;Manana;3 Sec;D;2024-I-Callao-3SecD-M;Ingles;D567;38;0;84.6;Alta;11.31;24;14
+2024-II;Ago;San Juan;Manana;1 Sec;B;2024-II-SanJuan-1SecB-M;Quimica;D395;47;1;86.1;Alta;13.49;35;12
+2024-II;Oct;Callao;Manana;5 Sec;C;2024-II-Callao-5SecC-M;Historia;D246;37;0;88.6;Alta;10.42;22;15
+2024-I;Sep;Ate;Tarde;5 Sec;C;2024-I-Ate-5SecC-T;Ingles;D934;26;0;79.4;Media;13.67;18;8
+2025-I;Sep;Surco;Manana;3 Sec;D;2025-I-Surco-3SecD-M;Computacion;D149;32;0;99.8;Muy Alta;13.08;25;7
+2025-I;Jun;Callao;Manana;3 Sec;A;2025-I-Callao-3SecA-M;Computacion;D744;42;0;89.4;Alta;14.17;33;9
+2024-I;Sep;Surco;Manana;5 Sec;D;2024-I-Surco-5SecD-M;Historia;D203;44;0;78.9;Media;13.59;31;13
+2024-II;Abr;Ate;Manana;5 Sec;C;2024-II-Ate-5SecC-M;Economia;D876;34;0;88.5;Alta;11.46;22;12
+2024-I;Jun;Surco;Manana;4 Sec;B;2024-I-Surco-4SecB-M;Ciencia;D130;35;1;90.5;Muy Alta;12.87;26;9
+2024-II;Sep;Ate;Tarde;4 Sec;A;2024-II-Ate-4SecA-T;Matematica;D906;25;1;82.7;Alta;10.0;14;11
+2024-I;Sep;San Juan;Tarde;4 Sec;D;2024-I-SanJuan-4SecD-T;Matematica;D171;24;0;93.2;Muy Alta;8.71;13;11
+2024-II;Sep;Surco;Manana;2 Sec;B;2024-II-Surco-2SecB-M;Historia;D203;35;0;89.9;Alta;10.79;22;13
+2025-I;Sep;Surco;Manana;1 Sec;B;2025-I-Surco-1SecB-M;Biologia;D539;39;0;82.8;Alta;13.54;28;11
+2024-II;Mar;Lima Centro;Manana;3 Sec;A;2024-II-LimaCentro-3SecA-M;Fisica;D677;35;0;86.1;Alta;9.03;18;17
+2024-II;Sep;Surco;Noche;3 Sec;D;2024-II-Surco-3SecD-N;Ciencia;D130;17;0;78.8;Media;9.45;8;9
+2024-II;Mar;Surco;Manana;5 Sec;C;2024-II-Surco-5SecC-M;Fisica;D879;35;1;90.3;Muy Alta;12.41;25;10
+2025-I;Sep;Callao;Tarde;1 Sec;D;2025-I-Callao-1SecD-T;Comunicacion;D199;41;1;93.4;Muy Alta;15.89;37;4
+2024-I;Ago;Ate;Noche;5 Sec;A;2024-I-Ate-5SecA-N;Comunicacion;D909;17;0;77.5;Media;12.43;11;6
+2025-I;Sep;Callao;Manana;5 Sec;C;2025-I-Callao-5SecC-M;Historia;D246;40;0;79.8;Media;9.64;21;19
+2025-I;Jun;San Juan;Manana;1 Sec;C;2025-I-SanJuan-1SecC-M;Comunicacion;D562;49;0;71.8;Media;10.96;27;22
+2024-II;Abr;Ate;Tarde;2 Sec;C;2024-II-Ate-2SecC-T;Biologia;D127;23;1;87.6;Alta;12.64;16;7
+2024-I;Jul;Callao;Manana;1 Sec;B;2024-I-Callao-1SecB-M;Ciencia;D344;44;0;83.5;Alta;10.24;25;19
+2024-II;Ago;Surco;Manana;3 Sec;C;2024-II-Surco-3SecC-M;Computacion;D149;37;0;86.8;Alta;11.46;24;13
+2025-I;Jul;Callao;Tarde;1 Sec;A;2025-I-Callao-1SecA-T;Ciencia;D344;40;0;75.5;Media;10.15;21;19
+2024-II;May;Callao;Tarde;4 Sec;D;2024-II-Callao-4SecD-T;Comunicacion;D199;29;0;84.6;Alta;13.82;22;7
+2024-I;Nov;Callao;Tarde;1 Sec;D;2024-I-Callao-1SecD-T;Biologia;D818;28;0;77.1;Media;11.05;16;12
+2025-I;Mar;Callao;Manana;4 Sec;D;2025-I-Callao-4SecD-M;Computacion;D744;31;1;92.4;Muy Alta;13.52;24;7
+2025-I;Jun;Ate;Tarde;4 Sec;D;2025-I-Ate-4SecD-T;Historia;D583;25;1;81.0;Alta;9.05;12;13
+2024-II;Abr;Lima Centro;Noche;3 Sec;D;2024-II-LimaCentro-3SecD-N;Fisica;D677;24;0;85.5;Alta;11.44;15;9
+2024-II;Abr;Ate;Manana;4 Sec;C;2024-II-Ate-4SecC-M;Ciencia;D110;33;1;94.8;Muy Alta;13.0;25;8
+2024-I;Ago;San Juan;Tarde;3 Sec;C;2024-I-SanJuan-3SecC-T;Biologia;D815;35;1;81.8;Alta;11.98;23;12
+2025-I;Abr;Surco;Manana;2 Sec;D;2025-I-Surco-2SecD-M;Ingles;D292;46;0;94.5;Muy Alta;14.64;39;7
+2025-I;Mar;Lima Centro;Tarde;3 Sec;C;2025-I-LimaCentro-3SecC-T;Biologia;D724;34;1;85.8;Alta;10.45;20;14
+2024-II;Nov;Callao;Manana;2 Sec;C;2024-II-Callao-2SecC-M;Comunicacion;D199;40;0;78.9;Media;9.22;20;20
+2025-I;Jun;Lima Centro;Manana;2 Sec;D;2025-I-LimaCentro-2SecD-M;Fisica;D677;33;0;80.6;Alta;10.61;19;14
+2024-I;Abr;Lima Centro;Manana;4 Sec;B;2024-I-LimaCentro-4SecB-M;Computacion;D324;46;0;93.9;Muy Alta;12.56;34;12
+2024-I;Sep;San Juan;Tarde;3 Sec;C;2024-I-SanJuan-3SecC-T;Matematica;D171;35;1;89.4;Alta;9.14;19;16
+2024-I;May;Lima Centro;Manana;3 Sec;A;2024-I-LimaCentro-3SecA-M;Fisica;D677;38;0;96.4;Muy Alta;12.58;28;10
+2024-II;Nov;Ate;Manana;2 Sec;C;2024-II-Ate-2SecC-M;Economia;D876;38;0;90.6;Muy Alta;12.82;28;10
+2024-I;Ago;Callao;Tarde;1 Sec;C;2024-I-Callao-1SecC-T;Ingles;D567;29;0;82.5;Alta;11.74;18;11
+2025-I;May;Surco;Manana;1 Sec;D;2025-I-Surco-1SecD-M;Historia;D203;43;1;85.1;Alta;12.63;30;13
+2024-II;May;Lima Centro;Manana;5 Sec;D;2024-II-LimaCentro-5SecD-M;Economia;D261;31;0;94.9;Muy Alta;13.18;24;7
+2024-II;Jun;Surco;Tarde;4 Sec;A;2024-II-Surco-4SecA-T;Comunicacion;D751;26;0;80.8;Alta;8.59;12;14
+2024-I;Jul;Lima Centro;Manana;3 Sec;C;2024-I-LimaCentro-3SecC-M;Ciencia;D827;36;1;89.8;Alta;10.24;21;15
+2024-II;Nov;Lima Centro;Tarde;2 Sec;A;2024-II-LimaCentro-2SecA-T;Historia;D291;32;1;79.8;Media;11.46;19;13
+2025-I;Oct;Surco;Tarde;3 Sec;C;2025-I-Surco-3SecC-T;Economia;D786;32;2;77.8;Media;9.2;15;17
+2024-II;Mar;Ate;Manana;2 Sec;B;2024-II-Ate-2SecB-M;Biologia;D127;43;0;94.5;Muy Alta;12.66;32;11
+2024-I;Ago;Surco;Manana;1 Sec;C;2024-I-Surco-1SecC-M;Comunicacion;D751;33;0;86.7;Alta;12.41;23;10
+2025-I;Sep;Lima Centro;Tarde;4 Sec;B;2025-I-LimaCentro-4SecB-T;Fisica;D677;34;1;71.9;Media;11.74;20;14
+2024-I;May;Callao;Manana;3 Sec;A;2024-I-Callao-3SecA-M;Fisica;D330;32;0;70.0;Media;11.72;18;14
+2025-I;Ago;San Juan;Manana;4 Sec;B;2025-I-SanJuan-4SecB-M;Matematica;D171;41;0;87.5;Alta;13.4;31;10
+2024-II;Nov;Callao;Manana;4 Sec;C;2024-II-Callao-4SecC-M;Economia;D633;39;1;84.4;Alta;10.43;23;16
+2024-I;Nov;Surco;Manana;2 Sec;D;2024-I-Surco-2SecD-M;Comunicacion;D751;35;0;94.0;Muy Alta;13.3;27;8
+2024-II;Jul;Surco;Tarde;4 Sec;B;2024-II-Surco-4SecB-T;Historia;D203;32;0;91.0;Muy Alta;12.77;23;9
+2024-II;Jun;Ate;Manana;2 Sec;D;2024-II-Ate-2SecD-M;Ciencia;D110;32;0;94.5;Muy Alta;13.16;24;8
+2024-I;Jun;Ate;Noche;2 Sec;B;2024-I-Ate-2SecB-N;Historia;D583;20;0;76.0;Media;9.96;10;10
+2025-I;Ago;Callao;Manana;2 Sec;D;2025-I-Callao-2SecD-M;Comunicacion;D199;40;0;93.8;Muy Alta;11.71;28;12
+2024-II;Abr;Callao;Tarde;2 Sec;C;2024-II-Callao-2SecC-T;Matematica;D944;31;0;89.8;Alta;10.39;19;12
+2025-I;Abr;Callao;Tarde;3 Sec;B;2025-I-Callao-3SecB-T;Computacion;D744;34;0;85.3;Alta;12.25;23;11
+2025-I;Jul;Lima Centro;Manana;3 Sec;C;2025-I-LimaCentro-3SecC-M;Computacion;D324;33;1;98.1;Muy Alta;13.1;26;7
+2024-I;Mar;Callao;Manana;5 Sec;B;2024-I-Callao-5SecB-M;Comunicacion;D199;29;0;80.7;Alta;10.82;17;12
+2024-II;Sep;Ate;Manana;2 Sec;B;2024-II-Ate-2SecB-M;Historia;D583;40;0;95.4;Muy Alta;12.33;29;11
+2024-I;Sep;Lima Centro;Tarde;1 Sec;B;2024-I-LimaCentro-1SecB-T;Economia;D261;36;1;87.2;Alta;10.94;22;14
+2025-I;Abr;Ate;Tarde;4 Sec;B;2025-I-Ate-4SecB-T;Economia;D876;33;0;79.4;Media;11.13;19;14
+2024-II;May;Surco;Manana;1 Sec;C;2024-II-Surco-1SecC-M;Biologia;D539;30;1;84.6;Alta;11.85;19;11
+2024-II;Abr;Ate;Manana;5 Sec;B;2024-II-Ate-5SecB-M;Computacion;D170;29;0;96.6;Muy Alta;12.57;22;7
+2025-I;Nov;San Juan;Manana;5 Sec;C;2025-I-SanJuan-5SecC-M;Ingles;D269;31;0;87.4;Alta;12.48;22;9
+2024-I;Abr;Lima Centro;Noche;2 Sec;A;2024-I-LimaCentro-2SecA-N;Ingles;D966;31;1;72.2;Media;10.58;16;15
+2024-II;Jun;Lima Centro;Manana;5 Sec;B;2024-II-LimaCentro-5SecB-M;Economia;D261;33;1;87.7;Alta;11.23;21;12
+2024-I;Ago;Callao;Manana;4 Sec;B;2024-I-Callao-4SecB-M;Comunicacion;D199;38;0;84.7;Alta;11.35;24;14
+2024-I;Jul;Ate;Tarde;3 Sec;C;2024-I-Ate-3SecC-T;Biologia;D127;31;0;76.8;Media;10.73;17;14
+2025-I;Jun;Lima Centro;Manana;5 Sec;B;2025-I-LimaCentro-5SecB-M;Economia;D261;43;0;82.2;Alta;10.56;25;18
+2024-II;Jun;Lima Centro;Tarde;2 Sec;C;2024-II-LimaCentro-2SecC-T;Biologia;D724;40;0;87.9;Alta;9.97;23;17
+2025-I;Jul;Lima Centro;Tarde;4 Sec;D;2025-I-LimaCentro-4SecD-T;Historia;D291;33;1;85.2;Alta;12.31;22;11
+2024-II;Nov;Surco;Noche;1 Sec;D;2024-II-Surco-1SecD-N;Ingles;D292;17;0;68.5;Baja;10.05;8;9
+2024-I;Abr;Lima Centro;Manana;3 Sec;B;2024-I-LimaCentro-3SecB-M;Comunicacion;D599;43;0;86.3;Alta;10.74;26;17
+2025-I;May;Lima Centro;Tarde;5 Sec;B;2025-I-LimaCentro-5SecB-T;Matematica;D465;26;0;88.1;Alta;11.85;17;9
+2024-I;Oct;Ate;Manana;5 Sec;C;2024-I-Ate-5SecC-M;Quimica;D533;25;0;89.9;Alta;10.5;15;10
+2024-I;Sep;Surco;Tarde;1 Sec;C;2024-I-Surco-1SecC-T;Economia;D786;35;0;92.8;Muy Alta;12.84;26;9
+2025-I;May;Ate;Manana;5 Sec;D;2025-I-Ate-5SecD-M;Quimica;D533;36;0;83.4;Alta;12.33;24;12
+2024-II;Jul;Callao;Manana;2 Sec;B;2024-II-Callao-2SecB-M;Matematica;D944;39;1;83.7;Alta;9.7;21;18
+2024-II;Mar;San Juan;Tarde;1 Sec;A;2024-II-SanJuan-1SecA-T;Comunicacion;D562;29;1;75.8;Media;11.84;18;11
+2025-I;May;Ate;Tarde;3 Sec;D;2025-I-Ate-3SecD-T;Ingles;D934;33;0;90.0;Muy Alta;11.94;23;10
+2024-I;May;Ate;Manana;2 Sec;A;2024-I-Ate-2SecA-M;Biologia;D127;44;0;95.9;Muy Alta;12.85;33;11
+2025-I;Mar;San Juan;Manana;3 Sec;B;2025-I-SanJuan-3SecB-M;Computacion;D785;45;0;92.6;Muy Alta;14.01;36;9
+2024-II;Jul;Ate;Tarde;2 Sec;B;2024-II-Ate-2SecB-T;Ciencia;D110;33;0;91.9;Muy Alta;11.57;22;11
+2024-I;Jul;Ate;Manana;3 Sec;A;2024-I-Ate-3SecA-M;Historia;D583;28;1;86.2;Alta;12.08;19;9
+2024-I;Oct;Lima Centro;Manana;1 Sec;A;2024-I-LimaCentro-1SecA-M;Historia;D291;30;0;82.2;Alta;13.41;21;9
+2024-I;Abr;Lima Centro;Manana;5 Sec;D;2024-I-LimaCentro-5SecD-M;Biologia;D724;27;0;86.9;Alta;12.94;19;8
+2025-I;May;Callao;Tarde;4 Sec;C;2025-I-Callao-4SecC-T;Biologia;D818;36;0;92.4;Muy Alta;13.06;27;9
+2024-II;Jun;Callao;Manana;2 Sec;D;2024-II-Callao-2SecD-M;Ciencia;D344;45;1;70.8;Media;11.64;26;19
+2024-I;Jul;Ate;Manana;4 Sec;C;2024-I-Ate-4SecC-M;Matematica;D906;40;0;83.6;Alta;10.63;23;17
+2024-I;Nov;Surco;Tarde;2 Sec;D;2024-I-Surco-2SecD-T;Fisica;D879;24;0;91.6;Muy Alta;11.6;16;8
+2025-I;Jun;Lima Centro;Tarde;3 Sec;A;2025-I-LimaCentro-3SecA-T;Biologia;D724;35;0;77.5;Media;11.16;20;15
+2024-I;Abr;Callao;Manana;1 Sec;D;2024-I-Callao-1SecD-M;Quimica;D828;34;0;99.2;Muy Alta;15.61;31;3
+2025-I;Jun;San Juan;Manana;4 Sec;C;2025-I-SanJuan-4SecC-M;Quimica;D395;25;0;99.6;Muy Alta;12.2;18;7
+2024-I;Jul;Lima Centro;Manana;1 Sec;D;2024-I-LimaCentro-1SecD-M;Computacion;D324;27;0;96.9;Muy Alta;13.78;22;5
+2025-I;Sep;Ate;Manana;3 Sec;B;2025-I-Ate-3SecB-M;Economia;D876;35;1;87.6;Alta;12.17;24;11
+2024-II;Oct;San Juan;Tarde;1 Sec;B;2024-II-SanJuan-1SecB-T;Historia;D452;24;1;88.9;Alta;11.09;15;9
+2024-I;Abr;Lima Centro;Manana;2 Sec;B;2024-I-LimaCentro-2SecB-M;Economia;D261;40;0;92.2;Muy Alta;8.93;22;18
+2025-I;Nov;Callao;Noche;1 Sec;B;2025-I-Callao-1SecB-N;Economia;D633;21;0;78.5;Media;8.95;10;11
+2024-II;Sep;Ate;Tarde;3 Sec;C;2024-II-Ate-3SecC-T;Comunicacion;D909;31;0;81.8;Alta;13.1;22;9
+2025-I;Nov;Surco;Manana;5 Sec;A;2025-I-Surco-5SecA-M;Economia;D786;37;0;88.6;Alta;11.77;25;12
+2024-II;Jul;San Juan;Tarde;1 Sec;D;2024-II-SanJuan-1SecD-T;Matematica;D171;28;1;78.9;Media;7.92;12;16
+2024-I;Jun;Callao;Manana;5 Sec;A;2024-I-Callao-5SecA-M;Matematica;D944;40;0;86.4;Alta;11.02;25;15
+2024-I;Ago;Ate;Tarde;5 Sec;D;2024-I-Ate-5SecD-T;Comunicacion;D909;23;1;94.3;Muy Alta;12.0;16;7
+2024-I;Ago;Callao;Manana;3 Sec;B;2024-I-Callao-3SecB-M;Matematica;D944;34;0;88.6;Alta;10.33;20;14
+2024-I;Sep;San Juan;Manana;4 Sec;C;2024-I-SanJuan-4SecC-M;Ciencia;D883;35;0;83.8;Alta;11.39;22;13
+2024-I;Jun;Surco;Noche;4 Sec;C;2024-I-Surco-4SecC-N;Quimica;D890;20;0;83.2;Alta;10.64;11;9
+2024-I;Nov;San Juan;Manana;5 Sec;A;2024-I-SanJuan-5SecA-M;Economia;D454;36;0;81.1;Alta;10.82;21;15
+2025-I;May;San Juan;Noche;5 Sec;C;2025-I-SanJuan-5SecC-N;Fisica;D801;25;0;75.4;Media;12.19;15;10
+2024-I;Oct;Ate;Manana;5 Sec;A;2024-I-Ate-5SecA-M;Ingles;D934;41;1;87.8;Alta;12.88;30;11
+2024-II;Oct;Lima Centro;Manana;5 Sec;B;2024-II-LimaCentro-5SecB-M;Historia;D291;31;1;88.6;Alta;12.06;21;10
+2024-I;Oct;San Juan;Manana;5 Sec;B;2024-I-SanJuan-5SecB-M;Ingles;D269;28;1;89.4;Alta;15.22;24;4
+2024-I;May;Lima Centro;Tarde;2 Sec;B;2024-I-LimaCentro-2SecB-T;Quimica;D844;29;0;84.9;Alta;12.79;20;9
+2025-I;May;Ate;Manana;2 Sec;C;2025-I-Ate-2SecC-M;Comunicacion;D909;40;1;95.1;Muy Alta;12.25;29;11
+2025-I;Sep;Surco;Manana;3 Sec;A;2025-I-Surco-3SecA-M;Comunicacion;D751;28;0;88.1;Alta;8.62;14;14
+2024-II;Nov;Surco;Tarde;4 Sec;D;2024-II-Surco-4SecD-T;Computacion;D149;29;1;86.1;Alta;13.39;21;8
+2024-I;Mar;Ate;Manana;2 Sec;B;2024-I-Ate-2SecB-M;Computacion;D170;37;1;86.2;Alta;10.33;22;15
+2025-I;Sep;Callao;Manana;3 Sec;A;2025-I-Callao-3SecA-M;Ingles;D567;37;0;86.1;Alta;12.22;25;12
+2024-I;Nov;Surco;Noche;3 Sec;D;2024-I-Surco-3SecD-N;Ingles;D292;19;0;85.5;Alta;10.7;11;8
+2024-II;Ago;Surco;Manana;5 Sec;A;2024-II-Surco-5SecA-M;Quimica;D890;27;0;83.8;Alta;11.29;17;10
+2024-II;Abr;Callao;Tarde;3 Sec;D;2024-II-Callao-3SecD-T;Matematica;D944;31;0;87.8;Alta;10.6;19;12
+2025-I;Nov;Surco;Tarde;3 Sec;B;2025-I-Surco-3SecB-T;Economia;D786;33;2;91.3;Muy Alta;11.5;22;11
+2025-I;Nov;Ate;Tarde;2 Sec;C;2025-I-Ate-2SecC-T;Ingles;D934;35;0;74.8;Media;11.33;20;15
+2024-II;Sep;Ate;Manana;4 Sec;C;2024-II-Ate-4SecC-M;Ciencia;D110;32;0;82.2;Alta;11.96;21;11
+2024-II;Ago;Callao;Manana;4 Sec;D;2024-II-Callao-4SecD-M;Comunicacion;D199;27;0;86.3;Alta;12.38;18;9
+2025-I;Mar;Lima Centro;Manana;2 Sec;B;2025-I-LimaCentro-2SecB-M;Computacion;D324;42;0;90.9;Muy Alta;14.39;34;8
+2025-I;Nov;Callao;Manana;5 Sec;A;2025-I-Callao-5SecA-M;Comunicacion;D199;27;0;81.1;Alta;12.35;18;9
+2025-I;Ago;Ate;Tarde;5 Sec;D;2025-I-Ate-5SecD-T;Historia;D583;28;0;84.7;Alta;13.31;20;8
+2025-I;Mar;Surco;Noche;1 Sec;A;2025-I-Surco-1SecA-N;Ingles;D292;14;0;78.7;Media;10.57;8;6
+2024-I;May;Callao;Manana;4 Sec;B;2024-I-Callao-4SecB-M;Economia;D633;31;0;83.6;Alta;11.77;20;11
+2024-I;Sep;San Juan;Tarde;5 Sec;C;2024-I-SanJuan-5SecC-T;Ciencia;D883;36;0;77.8;Media;8.1;15;21
+2024-II;Jun;Lima Centro;Manana;2 Sec;A;2024-II-LimaCentro-2SecA-M;Economia;D261;44;0;86.8;Alta;9.59;24;20
+2024-II;Oct;Lima Centro;Tarde;5 Sec;D;2024-II-LimaCentro-5SecD-T;Biologia;D724;25;1;85.3;Alta;10.83;15;10
+2025-I;Sep;Surco;Manana;5 Sec;A;2025-I-Surco-5SecA-M;Computacion;D149;42;2;84.5;Alta;13.61;31;11
+2024-I;Mar;Surco;Manana;2 Sec;A;2024-I-Surco-2SecA-M;Computacion;D149;39;0;81.3;Alta;12.54;26;13
+2024-II;Oct;Callao;Manana;5 Sec;C;2024-II-Callao-5SecC-M;Biologia;D818;33;0;90.0;Muy Alta;13.03;24;9
+2024-II;Nov;Surco;Manana;4 Sec;D;2024-II-Surco-4SecD-M;Ciencia;D130;30;1;83.5;Alta;10.48;17;13
+2025-I;Jul;Ate;Manana;4 Sec;B;2025-I-Ate-4SecB-M;Ciencia;D110;44;0;89.1;Alta;14.5;36;8
+2024-I;Oct;Surco;Tarde;1 Sec;C;2024-I-Surco-1SecC-T;Biologia;D539;32;1;82.0;Alta;10.28;18;14
+2024-II;May;Lima Centro;Manana;1 Sec;D;2024-II-LimaCentro-1SecD-M;Computacion;D324;41;0;87.4;Alta;13.11;30;11
+2024-I;Nov;Surco;Tarde;3 Sec;D;2024-I-Surco-3SecD-T;Matematica;D261;24;0;84.0;Alta;9.66;13;11
+2024-I;Abr;Surco;Manana;5 Sec;D;2024-I-Surco-5SecD-M;Fisica;D879;33;0;97.7;Muy Alta;12.89;25;8
+2025-I;May;Callao;Manana;1 Sec;B;2025-I-Callao-1SecB-M;Quimica;D828;40;0;92.5;Muy Alta;12.22;28;12
+2024-I;Mar;Lima Centro;Noche;5 Sec;B;2024-I-LimaCentro-5SecB-N;Fisica;D677;19;0;82.5;Alta;10.39;11;8
+2025-I;Ago;Callao;Tarde;2 Sec;A;2025-I-Callao-2SecA-T;Fisica;D330;30;1;89.1;Alta;11.68;20;10
+2024-II;Jul;Ate;Tarde;2 Sec;D;2024-II-Ate-2SecD-T;Quimica;D533;35;0;77.1;Media;12.2;22;13
+2024-I;Jun;Lima Centro;Manana;2 Sec;D;2024-I-LimaCentro-2SecD-M;Comunicacion;D599;30;1;86.8;Alta;13.33;22;8
+2025-I;Abr;San Juan;Manana;3 Sec;B;2025-I-SanJuan-3SecB-M;Matematica;D171;39;0;92.4;Muy Alta;12.77;29;10
+2024-I;Jul;Ate;Tarde;5 Sec;C;2024-I-Ate-5SecC-T;Fisica;D426;28;0;81.8;Alta;12.06;18;10
+2025-I;Mar;Ate;Manana;3 Sec;A;2025-I-Ate-3SecA-M;Ciencia;D110;31;0;99.3;Muy Alta;14.21;26;5
+2024-I;Jun;Callao;Tarde;5 Sec;C;2024-I-Callao-5SecC-T;Historia;D246;35;0;84.4;Alta;10.27;20;15
+2024-II;Nov;Lima Centro;Tarde;3 Sec;A;2024-II-LimaCentro-3SecA-T;Computacion;D324;35;1;75.6;Media;12.6;23;12
+2024-I;Abr;Callao;Noche;5 Sec;D;2024-I-Callao-5SecD-N;Economia;D633;27;0;77.8;Media;11.66;16;11
+2024-I;May;San Juan;Manana;5 Sec;C;2024-I-SanJuan-5SecC-M;Matematica;D171;30;1;90.2;Muy Alta;12.4;21;9
+2025-I;Mar;Ate;Manana;1 Sec;B;2025-I-Ate-1SecB-M;Comunicacion;D909;37;0;89.0;Alta;10.34;22;15
+2024-II;Ago;Lima Centro;Manana;5 Sec;B;2024-II-LimaCentro-5SecB-M;Matematica;D465;28;0;88.1;Alta;13.12;20;8
+2024-II;Oct;Ate;Tarde;2 Sec;D;2024-II-Ate-2SecD-T;Economia;D876;27;0;83.0;Alta;13.33;19;8
+2025-I;Ago;Callao;Manana;1 Sec;C;2025-I-Callao-1SecC-M;Ingles;D567;31;1;78.0;Media;11.77;19;12
+2024-I;May;San Juan;Tarde;2 Sec;C;2024-I-SanJuan-2SecC-T;Biologia;D815;34;0;76.6;Media;9.53;17;17
+2025-I;Abr;Surco;Tarde;4 Sec;D;2025-I-Surco-4SecD-T;Fisica;D879;34;1;84.9;Alta;9.37;18;16
+2025-I;Oct;Callao;Manana;1 Sec;A;2025-I-Callao-1SecA-M;Fisica;D330;44;0;82.7;Alta;9.58;23;21
+2024-I;Sep;San Juan;Tarde;1 Sec;A;2024-I-SanJuan-1SecA-T;Economia;D454;36;1;90.7;Muy Alta;12.3;25;11
+2024-II;Jul;Callao;Manana;1 Sec;B;2024-II-Callao-1SecB-M;Matematica;D944;36;0;85.5;Alta;11.49;23;13
+2024-I;Sep;Surco;Tarde;1 Sec;C;2024-I-Surco-1SecC-T;Ingles;D292;39;0;81.6;Alta;11.62;24;15
+2025-I;Jun;Surco;Manana;3 Sec;A;2025-I-Surco-3SecA-M;Ciencia;D130;42;0;92.4;Muy Alta;12.59;31;11
+2024-I;Oct;Surco;Tarde;1 Sec;B;2024-I-Surco-1SecB-T;Ingles;D292;27;0;85.8;Alta;15.39;22;5
+2024-II;May;Ate;Manana;4 Sec;D;2024-II-Ate-4SecD-M;Comunicacion;D909;35;0;92.1;Muy Alta;14.75;29;6
+2025-I;Sep;San Juan;Manana;2 Sec;C;2025-I-SanJuan-2SecC-M;Computacion;D785;35;1;90.8;Muy Alta;11.89;24;11
+2025-I;May;Callao;Manana;2 Sec;A;2025-I-Callao-2SecA-M;Ciencia;D344;32;0;99.8;Muy Alta;14.57;28;4
+2024-I;Sep;San Juan;Manana;2 Sec;A;2024-I-SanJuan-2SecA-M;Computacion;D785;34;0;88.0;Alta;12.91;25;9
+2025-I;Ago;Callao;Manana;4 Sec;D;2025-I-Callao-4SecD-M;Matematica;D944;29;1;93.9;Muy Alta;12.89;22;7
+2024-I;May;Ate;Tarde;2 Sec;D;2024-I-Ate-2SecD-T;Computacion;D170;38;0;82.0;Alta;13.02;27;11
+2025-I;Jul;Lima Centro;Tarde;2 Sec;C;2025-I-LimaCentro-2SecC-T;Ingles;D966;30;0;80.0;Alta;12.14;19;11
+2024-II;Oct;Surco;Manana;2 Sec;A;2024-II-Surco-2SecA-M;Quimica;D890;43;0;84.2;Alta;11.21;27;16
+2024-I;Jun;Lima Centro;Tarde;2 Sec;A;2024-I-LimaCentro-2SecA-T;Historia;D291;36;0;92.1;Muy Alta;11.98;25;11
+2025-I;Jun;San Juan;Noche;2 Sec;C;2025-I-SanJuan-2SecC-N;Biologia;D815;20;0;80.0;Alta;9.08;10;10
+2025-I;Oct;Callao;Tarde;1 Sec;A;2025-I-Callao-1SecA-T;Economia;D633;33;0;81.1;Alta;12.22;21;12
+2024-II;Sep;Callao;Manana;2 Sec;C;2024-II-Callao-2SecC-M;Ingles;D567;38;1;85.5;Alta;10.62;23;15
+2025-I;Mar;San Juan;Tarde;5 Sec;C;2025-I-SanJuan-5SecC-T;Biologia;D815;37;0;79.5;Media;11.87;23;14
+2024-I;Mar;Ate;Tarde;1 Sec;D;2024-I-Ate-1SecD-T;Comunicacion;D909;34;0;91.6;Muy Alta;11.85;23;11
+2024-I;Oct;Surco;Tarde;3 Sec;C;2024-I-Surco-3SecC-T;Ciencia;D130;22;2;79.7;Media;10.08;12;10
+2024-I;May;San Juan;Manana;3 Sec;B;2024-I-SanJuan-3SecB-M;Historia;D452;33;0;78.2;Media;11.28;19;14
+2024-II;Sep;Ate;Manana;3 Sec;C;2024-II-Ate-3SecC-M;Computacion;D170;38;0;86.1;Alta;11.97;25;13
+2024-II;Mar;San Juan;Manana;5 Sec;B;2024-II-SanJuan-5SecB-M;Computacion;D785;30;0;86.4;Alta;8.39;15;15
+2024-II;Mar;Surco;Manana;1 Sec;C;2024-II-Surco-1SecC-M;Quimica;D890;33;0;97.5;Muy Alta;11.33;23;10
+2024-II;Jul;Callao;Tarde;3 Sec;A;2024-II-Callao-3SecA-T;Historia;D246;30;0;78.8;Media;11.85;19;11
+2024-I;Oct;Callao;Manana;4 Sec;A;2024-I-Callao-4SecA-M;Ciencia;D344;36;0;91.7;Muy Alta;12.23;25;11
+2024-I;Nov;Surco;Tarde;4 Sec;B;2024-I-Surco-4SecB-T;Computacion;D149;26;1;87.1;Alta;10.24;15;11
+2024-II;Mar;Callao;Manana;3 Sec;A;2024-II-Callao-3SecA-M;Fisica;D330;43;0;75.6;Media;10.79;24;19
+2024-I;May;Ate;Manana;3 Sec;D;2024-I-Ate-3SecD-M;Comunicacion;D909;26;0;88.6;Alta;10.58;16;10
+2024-II;Abr;Ate;Manana;5 Sec;D;2024-II-Ate-5SecD-M;Comunicacion;D909;44;0;89.4;Alta;11.82;30;14
+2025-I;Jul;Lima Centro;Noche;1 Sec;C;2025-I-LimaCentro-1SecC-N;Historia;D291;17;0;76.8;Media;11.26;10;7
+2024-I;Ago;Ate;Noche;5 Sec;C;2024-I-Ate-5SecC-N;Comunicacion;D909;21;0;78.6;Media;11.72;13;8
+2024-II;Abr;Surco;Manana;1 Sec;B;2024-II-Surco-1SecB-M;Biologia;D539;42;1;96.8;Muy Alta;10.44;27;15
+2024-II;Mar;Lima Centro;Manana;2 Sec;A;2024-II-LimaCentro-2SecA-M;Comunicacion;D599;41;0;94.4;Muy Alta;11.95;29;12
+2024-I;Ago;Callao;Manana;1 Sec;A;2024-I-Callao-1SecA-M;Ciencia;D344;38;0;80.1;Alta;9.04;19;19
+2024-II;Mar;Lima Centro;Manana;2 Sec;C;2024-II-LimaCentro-2SecC-M;Historia;D291;38;1;91.5;Muy Alta;11.14;25;13
+2025-I;Sep;San Juan;Noche;3 Sec;D;2025-I-SanJuan-3SecD-N;Quimica;D395;26;0;80.6;Alta;9.42;13;13
+2024-I;Sep;San Juan;Tarde;4 Sec;D;2024-I-SanJuan-4SecD-T;Computacion;D785;23;0;85.7;Alta;12.1;15;8
+2025-I;Ago;Callao;Manana;3 Sec;C;2025-I-Callao-3SecC-M;Comunicacion;D199;31;1;89.9;Alta;13.67;24;7
+2025-I;Sep;Ate;Tarde;2 Sec;D;2025-I-Ate-2SecD-T;Biologia;D127;40;1;66.4;Baja;13.4;26;14
+2024-II;Abr;Lima Centro;Tarde;2 Sec;C;2024-II-LimaCentro-2SecC-T;Ciencia;D827;27;0;91.7;Muy Alta;14.05;21;6
+2025-I;Nov;Callao;Tarde;1 Sec;A;2025-I-Callao-1SecA-T;Ingles;D567;24;0;80.0;Alta;10.73;14;10
+2024-II;Ago;Surco;Tarde;1 Sec;D;2024-II-Surco-1SecD-T;Biologia;D539;38;0;83.1;Alta;10.92;23;15
+2024-II;Oct;Lima Centro;Manana;5 Sec;C;2024-II-LimaCentro-5SecC-M;Biologia;D724;41;1;88.4;Alta;13.66;31;10
+2025-I;Jun;Callao;Tarde;3 Sec;D;2025-I-Callao-3SecD-T;Fisica;D330;23;0;80.2;Alta;12.73;15;8
+2024-II;Ago;San Juan;Noche;4 Sec;B;2024-II-SanJuan-4SecB-N;Quimica;D395;25;0;80.3;Alta;10.3;14;11
+2025-I;Nov;San Juan;Manana;1 Sec;B;2025-I-SanJuan-1SecB-M;Ingles;D269;45;0;81.7;Alta;10.8;26;19
+2024-I;Oct;Lima Centro;Tarde;1 Sec;C;2024-I-LimaCentro-1SecC-T;Fisica;D677;35;0;76.1;Media;11.38;20;15
+2025-I;Mar;Ate;Manana;5 Sec;D;2025-I-Ate-5SecD-M;Comunicacion;D909;26;0;96.2;Muy Alta;11.41;18;8
+2024-II;Ago;Lima Centro;Manana;2 Sec;C;2024-II-LimaCentro-2SecC-M;Historia;D291;37;0;86.3;Alta;10.87;23;14
+2024-I;Mar;San Juan;Manana;3 Sec;A;2024-I-SanJuan-3SecA-M;Quimica;D395;28;0;86.9;Alta;10.92;17;11
+2024-II;Jul;Lima Centro;Manana;5 Sec;B;2024-II-LimaCentro-5SecB-M;Computacion;D324;30;1;86.1;Alta;11.47;19;11
+2025-I;Sep;Ate;Manana;5 Sec;A;2025-I-Ate-5SecA-M;Ingles;D934;44;0;89.8;Alta;10.92;28;16
+2025-I;Nov;Lima Centro;Manana;3 Sec;D;2025-I-LimaCentro-3SecD-M;Comunicacion;D599;38;1;92.6;Muy Alta;12.83;28;10
+2024-II;Abr;Callao;Tarde;5 Sec;B;2024-II-Callao-5SecB-T;Comunicacion;D199;31;0;91.5;Muy Alta;12.78;23;8
+2024-II;Nov;Surco;Tarde;5 Sec;A;2024-II-Surco-5SecA-T;Ingles;D292;31;0;74.1;Media;10.19;16;15
+2024-II;Ago;Ate;Tarde;5 Sec;A;2024-II-Ate-5SecA-T;Economia;D876;21;0;83.3;Alta;11.73;13;8
+2025-I;Nov;Callao;Tarde;1 Sec;D;2025-I-Callao-1SecD-T;Fisica;D330;24;0;82.9;Alta;8.45;11;13
+2024-I;Abr;San Juan;Tarde;1 Sec;D;2024-I-SanJuan-1SecD-T;Ciencia;D883;41;0;79.1;Media;13.02;28;13
+2025-I;May;Callao;Manana;2 Sec;D;2025-I-Callao-2SecD-M;Comunicacion;D199;33;1;86.4;Alta;10.89;20;13
+2025-I;Abr;Ate;Tarde;5 Sec;B;2025-I-Ate-5SecB-T;Computacion;D170;30;0;84.8;Alta;11.94;20;10
+2024-I;Jun;Callao;Tarde;3 Sec;A;2024-I-Callao-3SecA-T;Comunicacion;D199;25;1;88.6;Alta;11.58;16;9
+2024-I;Oct;Ate;Tarde;3 Sec;C;2024-I-Ate-3SecC-T;Ingles;D934;33;0;79.4;Media;11.83;21;12
+2024-II;Jun;Lima Centro;Manana;5 Sec;B;2024-II-LimaCentro-5SecB-M;Computacion;D324;33;2;79.4;Media;11.82;21;12
+2025-I;Jul;San Juan;Tarde;2 Sec;D;2025-I-SanJuan-2SecD-T;Comunicacion;D562;41;0;89.1;Alta;11.4;27;14
+2025-I;Nov;Surco;Manana;2 Sec;A;2025-I-Surco-2SecA-M;Matematica;D261;43;0;85.4;Alta;10.63;26;17
+2025-I;Nov;Lima Centro;Manana;5 Sec;D;2025-I-LimaCentro-5SecD-M;Matematica;D465;37;0;90.9;Muy Alta;13.19;28;9
+2024-I;Ago;Callao;Tarde;2 Sec;A;2024-I-Callao-2SecA-T;Fisica;D330;28;0;88.0;Alta;11.58;18;10
+2024-I;May;Callao;Manana;5 Sec;A;2024-I-Callao-5SecA-M;Quimica;D828;35;1;96.0;Muy Alta;13.54;28;7
+2024-II;Jun;Ate;Tarde;2 Sec;D;2024-II-Ate-2SecD-T;Biologia;D127;31;0;72.8;Media;8.95;14;17
+2024-II;May;Lima Centro;Manana;5 Sec;C;2024-II-LimaCentro-5SecC-M;Computacion;D324;38;1;100.0;Muy Alta;15.6;35;3
+2024-II;Mar;Callao;Manana;1 Sec;D;2024-II-Callao-1SecD-M;Computacion;D744;34;0;84.6;Alta;12.51;23;11
+2024-I;Oct;Ate;Tarde;1 Sec;A;2024-I-Ate-1SecA-T;Ciencia;D110;37;0;73.8;Media;10.67;20;17
+2024-II;Jun;San Juan;Tarde;2 Sec;C;2024-II-SanJuan-2SecC-T;Ingles;D269;33;0;82.7;Alta;10.27;19;14
+2025-I;Jul;Surco;Manana;3 Sec;D;2025-I-Surco-3SecD-M;Matematica;D261;28;1;86.9;Alta;11.3;18;10
+2025-I;Jun;Callao;Noche;2 Sec;B;2025-I-Callao-2SecB-N;Economia;D633;23;0;76.5;Media;11.93;14;9
+2025-I;Sep;Callao;Manana;2 Sec;A;2025-I-Callao-2SecA-M;Comunicacion;D199;29;0;87.7;Alta;11.05;18;11
+2025-I;Oct;Callao;Tarde;3 Sec;B;2025-I-Callao-3SecB-T;Matematica;D944;28;0;86.2;Alta;12.91;20;8
+2025-I;Mar;Ate;Noche;2 Sec;D;2025-I-Ate-2SecD-N;Comunicacion;D909;18;0;73.0;Media;10.58;9;9
+2024-I;Mar;Lima Centro;Tarde;5 Sec;A;2024-I-LimaCentro-5SecA-T;Matematica;D465;34;0;86.2;Alta;11.45;22;12
+2025-I;Sep;Ate;Manana;2 Sec;C;2025-I-Ate-2SecC-M;Ciencia;D110;37;1;87.8;Alta;13.82;28;9
+2024-I;May;San Juan;Noche;1 Sec;A;2024-I-SanJuan-1SecA-N;Ciencia;D883;21;0;83.7;Alta;8.23;10;11
+2024-I;May;Ate;Tarde;3 Sec;D;2024-I-Ate-3SecD-T;Historia;D583;28;1;81.7;Alta;11.53;17;11
+2024-II;Abr;Callao;Manana;1 Sec;B;2024-II-Callao-1SecB-M;Quimica;D828;46;0;88.4;Alta;10.42;28;18
+2025-I;Jun;Ate;Noche;2 Sec;B;2025-I-Ate-2SecB-N;Fisica;D426;29;0;79.2;Media;11.42;17;12
+2024-II;Jun;Ate;Tarde;2 Sec;C;2024-II-Ate-2SecC-T;Economia;D876;27;0;76.7;Media;9.99;14;13
+2024-II;Abr;Callao;Manana;1 Sec;B;2024-II-Callao-1SecB-M;Ciencia;D344;43;0;86.4;Alta;13.04;31;12
+2024-II;Abr;San Juan;Manana;4 Sec;D;2024-II-SanJuan-4SecD-M;Quimica;D395;41;0;88.0;Alta;11.17;26;15
+2025-I;May;Callao;Manana;3 Sec;B;2025-I-Callao-3SecB-M;Historia;D246;34;0;87.4;Alta;11.05;21;13
+2025-I;May;Surco;Tarde;4 Sec;C;2025-I-Surco-4SecC-T;Historia;D203;23;0;78.1;Media;13.75;16;7
+2024-I;Abr;Lima Centro;Tarde;3 Sec;A;2024-I-LimaCentro-3SecA-T;Economia;D261;34;0;80.2;Alta;9.87;18;16
+2024-I;Sep;Ate;Manana;4 Sec;D;2024-I-Ate-4SecD-M;Biologia;D127;39;1;89.0;Alta;12.03;27;12
+2024-II;May;Callao;Manana;3 Sec;C;2024-II-Callao-3SecC-M;Computacion;D744;31;1;87.1;Alta;10.07;18;13
+2024-I;Ago;San Juan;Manana;5 Sec;B;2024-I-SanJuan-5SecB-M;Biologia;D815;37;0;90.9;Muy Alta;9.84;22;15
+2024-II;Nov;Ate;Tarde;5 Sec;D;2024-II-Ate-5SecD-T;Computacion;D170;24;0;93.8;Muy Alta;9.55;14;10
+2024-I;May;Lima Centro;Manana;1 Sec;D;2024-I-LimaCentro-1SecD-M;Economia;D261;46;0;83.8;Alta;13.17;33;13
+2024-II;Abr;Callao;Tarde;3 Sec;D;2024-II-Callao-3SecD-T;Ciencia;D344;22;0;92.4;Muy Alta;11.46;15;7
+2025-I;Mar;San Juan;Tarde;5 Sec;D;2025-I-SanJuan-5SecD-T;Ciencia;D883;31;0;79.4;Media;10.33;17;14
+2025-I;Nov;Surco;Tarde;1 Sec;C;2025-I-Surco-1SecC-T;Fisica;D879;31;0;76.0;Media;9.89;16;15
+2024-I;Abr;Callao;Manana;2 Sec;C;2024-I-Callao-2SecC-M;Quimica;D828;39;1;90.1;Muy Alta;10.22;23;16
+2024-I;Sep;Surco;Manana;1 Sec;A;2024-I-Surco-1SecA-M;Computacion;D149;36;0;87.9;Alta;12.16;25;11
+2024-II;Abr;Lima Centro;Manana;2 Sec;C;2024-II-LimaCentro-2SecC-M;Biologia;D724;40;0;76.5;Media;10.85;23;17
+2024-II;Mar;Surco;Manana;5 Sec;B;2024-II-Surco-5SecB-M;Fisica;D879;36;1;94.1;Muy Alta;12.13;26;10
+2024-II;Ago;Ate;Tarde;5 Sec;B;2024-II-Ate-5SecB-T;Biologia;D127;37;0;76.9;Media;11.32;22;15
+2024-I;Sep;Callao;Manana;5 Sec;C;2024-I-Callao-5SecC-M;Economia;D633;28;1;76.0;Media;10.03;14;14
+2024-I;May;Surco;Manana;4 Sec;A;2024-I-Surco-4SecA-M;Fisica;D879;28;1;78.5;Media;11.04;16;12
+2024-I;May;San Juan;Manana;1 Sec;C;2024-I-SanJuan-1SecC-M;Quimica;D395;39;0;93.9;Muy Alta;12.28;28;11
+2025-I;Sep;Callao;Manana;4 Sec;B;2025-I-Callao-4SecB-M;Historia;D246;42;0;86.5;Alta;10.51;25;17
+2024-II;Oct;Lima Centro;Manana;3 Sec;D;2024-II-LimaCentro-3SecD-M;Computacion;D324;40;1;91.0;Muy Alta;10.14;24;16
+2024-II;Oct;Ate;Noche;5 Sec;C;2024-II-Ate-5SecC-N;Biologia;D127;23;1;83.0;Alta;12.88;16;7
+2025-I;Ago;Ate;Manana;3 Sec;D;2025-I-Ate-3SecD-M;Comunicacion;D909;34;0;82.4;Alta;12.57;23;11
+2024-II;Oct;Lima Centro;Manana;5 Sec;B;2024-II-LimaCentro-5SecB-M;Computacion;D324;24;0;94.2;Muy Alta;12.12;17;7
+2024-II;May;Callao;Tarde;5 Sec;A;2024-II-Callao-5SecA-T;Computacion;D744;29;1;85.6;Alta;10.66;17;12
+2024-II;Nov;Lima Centro;Manana;1 Sec;A;2024-II-LimaCentro-1SecA-M;Economia;D261;47;0;90.0;Muy Alta;14.31;38;9
+2024-II;Nov;Lima Centro;Manana;1 Sec;B;2024-II-LimaCentro-1SecB-M;Historia;D291;30;0;79.1;Media;12.21;19;11
+2025-I;May;Ate;Manana;3 Sec;C;2025-I-Ate-3SecC-M;Ciencia;D110;37;0;93.8;Muy Alta;10.55;23;14
+2025-I;Jun;San Juan;Noche;1 Sec;B;2025-I-SanJuan-1SecB-N;Historia;D452;22;0;75.9;Media;12.49;14;8
+2025-I;Jul;Callao;Manana;1 Sec;B;2025-I-Callao-1SecB-M;Computacion;D744;45;0;74.2;Media;7.71;18;27
+2024-I;Abr;Lima Centro;Manana;1 Sec;A;2024-I-LimaCentro-1SecA-M;Biologia;D724;35;0;90.2;Muy Alta;13.09;26;9
+2024-II;Oct;Ate;Tarde;1 Sec;D;2024-II-Ate-1SecD-T;Quimica;D533;35;0;86.9;Alta;12.46;24;11
+2024-II;Jul;Ate;Manana;4 Sec;D;2024-II-Ate-4SecD-M;Fisica;D426;36;1;76.9;Media;10.69;20;16
+2024-I;Ago;Ate;Manana;3 Sec;C;2024-I-Ate-3SecC-M;Biologia;D127;28;1;78.3;Media;9.31;14;14
+2024-II;Nov;Callao;Manana;3 Sec;A;2024-II-Callao-3SecA-M;Comunicacion;D199;39;1;82.0;Alta;10.31;22;17
+2024-I;Oct;Lima Centro;Tarde;5 Sec;B;2024-I-LimaCentro-5SecB-T;Ingles;D966;23;0;88.7;Alta;11.75;15;8
+2024-I;Nov;Lima Centro;Noche;1 Sec;C;2024-I-LimaCentro-1SecC-N;Matematica;D465;23;1;77.0;Media;9.93;12;11
+2025-I;Mar;Lima Centro;Noche;5 Sec;C;2025-I-LimaCentro-5SecC-N;Ciencia;D827;14;0;86.0;Alta;9.52;7;7
+2024-II;Sep;San Juan;Manana;1 Sec;C;2024-II-SanJuan-1SecC-M;Historia;D452;33;0;81.9;Alta;10.68;19;14
+2024-II;Mar;Lima Centro;Noche;3 Sec;D;2024-II-LimaCentro-3SecD-N;Economia;D261;16;0;80.2;Alta;11.2;9;7
+2024-I;Nov;Callao;Manana;4 Sec;D;2024-I-Callao-4SecD-M;Economia;D633;41;0;92.6;Muy Alta;11.96;29;12
+2024-I;Jul;Surco;Manana;5 Sec;D;2024-I-Surco-5SecD-M;Historia;D203;35;0;85.4;Alta;10.82;21;14
+2024-I;Sep;Lima Centro;Tarde;4 Sec;B;2024-I-LimaCentro-4SecB-T;Historia;D291;36;0;75.5;Media;12.98;24;12
+2024-I;Jul;Callao;Manana;4 Sec;D;2024-I-Callao-4SecD-M;Economia;D633;29;0;94.2;Muy Alta;13.36;22;7
+2024-I;Abr;Lima Centro;Noche;3 Sec;D;2024-I-LimaCentro-3SecD-N;Matematica;D465;17;0;78.9;Media;9.15;8;9
+2025-I;Nov;Callao;Tarde;2 Sec;D;2025-I-Callao-2SecD-T;Biologia;D818;37;0;76.0;Media;10.24;20;17
+2025-I;Jun;Ate;Manana;1 Sec;A;2025-I-Ate-1SecA-M;Economia;D876;36;1;93.7;Muy Alta;11.29;24;12
+2024-I;Abr;Ate;Tarde;2 Sec;C;2024-I-Ate-2SecC-T;Ciencia;D110;27;0;72.1;Media;8.57;11;16
+2024-I;Nov;San Juan;Tarde;2 Sec;C;2024-I-SanJuan-2SecC-T;Historia;D452;35;0;79.3;Media;8.45;16;19
+2025-I;Oct;San Juan;Manana;4 Sec;C;2025-I-SanJuan-4SecC-M;Economia;D454;36;0;84.3;Alta;10.15;20;16
+2024-II;May;San Juan;Manana;2 Sec;C;2024-II-SanJuan-2SecC-M;Ingles;D269;34;1;81.7;Alta;13.09;24;10
+2024-II;Nov;Ate;Manana;2 Sec;D;2024-II-Ate-2SecD-M;Computacion;D170;35;1;81.3;Alta;12.18;23;12
+2024-II;Nov;Surco;Noche;2 Sec;B;2024-II-Surco-2SecB-N;Ingles;D292;27;0;86.1;Alta;14.31;21;6
+2024-I;Sep;Surco;Tarde;1 Sec;D;2024-I-Surco-1SecD-T;Comunicacion;D751;28;0;89.0;Alta;13.44;21;7
+2024-II;Sep;Callao;Manana;5 Sec;A;2024-II-Callao-5SecA-M;Economia;D633;35;0;83.9;Alta;13.27;25;10
+2025-I;Ago;Ate;Noche;5 Sec;A;2025-I-Ate-5SecA-N;Matematica;D906;13;0;79.1;Media;7.28;5;8
+2024-II;May;San Juan;Manana;2 Sec;A;2024-II-SanJuan-2SecA-M;Comunicacion;D562;46;0;86.2;Alta;12.19;31;15
+2025-I;May;Lima Centro;Manana;2 Sec;B;2025-I-LimaCentro-2SecB-M;Fisica;D677;35;1;91.2;Muy Alta;12.82;26;9
+2024-I;Jul;Lima Centro;Manana;5 Sec;C;2024-I-LimaCentro-5SecC-M;Matematica;D465;28;0;81.7;Alta;11.52;17;11
+2024-II;Oct;Callao;Manana;5 Sec;A;2024-II-Callao-5SecA-M;Economia;D633;39;0;73.2;Media;11.14;22;17
+2025-I;Nov;Ate;Noche;4 Sec;D;2025-I-Ate-4SecD-N;Matematica;D906;25;0;75.7;Media;9.1;12;13
+2024-I;Ago;Lima Centro;Tarde;3 Sec;C;2024-I-LimaCentro-3SecC-T;Matematica;D465;32;1;73.3;Media;9.13;15;17
+2024-II;Sep;Callao;Manana;1 Sec;A;2024-II-Callao-1SecA-M;Matematica;D944;45;0;84.9;Alta;13.97;34;11
+2024-II;May;Lima Centro;Manana;3 Sec;D;2024-II-LimaCentro-3SecD-M;Computacion;D324;35;0;79.7;Media;14.51;27;8
+2024-I;Jun;Ate;Tarde;2 Sec;A;2024-I-Ate-2SecA-T;Economia;D876;35;0;88.3;Alta;11.93;24;11
+2025-I;Nov;Ate;Manana;2 Sec;C;2025-I-Ate-2SecC-M;Matematica;D906;38;1;89.2;Alta;8.88;20;18
+2024-II;May;San Juan;Tarde;4 Sec;B;2024-II-SanJuan-4SecB-T;Ciencia;D883;20;0;78.0;Media;9.1;9;11
+2024-II;Jun;San Juan;Tarde;5 Sec;A;2024-II-SanJuan-5SecA-T;Historia;D452;32;0;71.7;Media;10.09;16;16
+2025-I;Jun;Ate;Tarde;2 Sec;B;2025-I-Ate-2SecB-T;Ingles;D934;28;0;84.8;Alta;11.06;17;11
+2024-I;Sep;Lima Centro;Tarde;3 Sec;C;2024-I-LimaCentro-3SecC-T;Biologia;D724;35;0;79.1;Media;9.27;17;18
+2025-I;Jul;Callao;Tarde;3 Sec;D;2025-I-Callao-3SecD-T;Economia;D633;32;0;77.9;Media;9.5;16;16
+2024-I;Abr;Lima Centro;Manana;4 Sec;C;2024-I-LimaCentro-4SecC-M;Economia;D261;41;1;100.0;Muy Alta;11.78;30;11
+2024-II;Mar;Ate;Tarde;1 Sec;D;2024-II-Ate-1SecD-T;Ingles;D934;28;0;80.9;Alta;9.03;14;14
+2024-II;Oct;Ate;Tarde;1 Sec;D;2024-II-Ate-1SecD-T;Ingles;D934;37;0;88.9;Alta;14.75;30;7
+2024-II;Oct;Callao;Tarde;4 Sec;D;2024-II-Callao-4SecD-T;Fisica;D330;29;0;74.6;Media;9.99;15;14
+2024-I;Sep;Surco;Manana;2 Sec;C;2024-I-Surco-2SecC-M;Fisica;D879;26;1;96.1;Muy Alta;15.14;23;3
+2024-I;Sep;Surco;Manana;4 Sec;B;2024-I-Surco-4SecB-M;Matematica;D261;34;1;92.7;Muy Alta;10.51;21;13
+2024-II;Jun;San Juan;Tarde;2 Sec;C;2024-II-SanJuan-2SecC-T;Matematica;D171;25;0;86.9;Alta;12.4;17;8
+2025-I;Nov;Lima Centro;Tarde;1 Sec;C;2025-I-LimaCentro-1SecC-T;Biologia;D724;29;0;91.2;Muy Alta;12.64;21;8
+2025-I;Jun;San Juan;Manana;2 Sec;A;2025-I-SanJuan-2SecA-M;Fisica;D801;44;0;83.0;Alta;9.97;24;20
+2024-II;May;Surco;Tarde;4 Sec;B;2024-II-Surco-4SecB-T;Computacion;D149;34;0;87.5;Alta;11.23;22;12
+2025-I;May;Lima Centro;Manana;2 Sec;D;2025-I-LimaCentro-2SecD-M;Fisica;D677;49;0;85.4;Alta;10.23;28;21
+2025-I;Oct;Ate;Manana;2 Sec;A;2025-I-Ate-2SecA-M;Quimica;D533;36;1;84.8;Alta;11.24;22;14
+2024-II;May;San Juan;Tarde;3 Sec;C;2024-II-SanJuan-3SecC-T;Comunicacion;D562;32;0;97.2;Muy Alta;11.91;23;9
+2024-I;Sep;Surco;Noche;1 Sec;A;2024-I-Surco-1SecA-N;Quimica;D890;17;1;66.0;Baja;10.43;8;9
+2024-II;Jul;Lima Centro;Manana;1 Sec;B;2024-II-LimaCentro-1SecB-M;Computacion;D324;39;0;92.3;Muy Alta;11.38;26;13
+2024-I;Abr;Ate;Manana;4 Sec;B;2024-I-Ate-4SecB-M;Matematica;D906;40;1;100.0;Muy Alta;11.05;28;12
+2024-I;Mar;Lima Centro;Manana;2 Sec;B;2024-I-LimaCentro-2SecB-M;Economia;D261;44;0;81.9;Alta;13.88;33;11
+2025-I;Jun;Lima Centro;Tarde;3 Sec;C;2025-I-LimaCentro-3SecC-T;Quimica;D844;27;0;74.5;Media;10.34;14;13
+2025-I;Jul;Callao;Manana;5 Sec;C;2025-I-Callao-5SecC-M;Fisica;D330;28;0;89.1;Alta;12.73;20;8
+2024-II;Oct;San Juan;Manana;5 Sec;B;2024-II-SanJuan-5SecB-M;Computacion;D785;36;0;86.0;Alta;13.75;27;9
+2024-II;Jul;Lima Centro;Tarde;3 Sec;A;2024-II-LimaCentro-3SecA-T;Fisica;D677;36;1;94.6;Muy Alta;10.65;23;13
+2024-II;Jun;Lima Centro;Manana;3 Sec;D;2024-II-LimaCentro-3SecD-M;Fisica;D677;41;1;82.3;Alta;12.5;28;13
+2025-I;Jun;Callao;Tarde;2 Sec;C;2025-I-Callao-2SecC-T;Quimica;D828;33;0;78.8;Media;11.0;19;14
+2024-II;Oct;Surco;Tarde;2 Sec;B;2024-II-Surco-2SecB-T;Biologia;D539;31;0;81.9;Alta;10.44;18;13
+2024-II;Mar;Callao;Noche;1 Sec;B;2024-II-Callao-1SecB-N;Computacion;D744;19;0;85.4;Alta;11.78;12;7
+2024-I;Mar;Surco;Tarde;5 Sec;D;2024-I-Surco-5SecD-T;Quimica;D890;21;1;63.9;Baja;11.14;11;10
+2024-I;Sep;Ate;Tarde;3 Sec;D;2024-I-Ate-3SecD-T;Quimica;D533;26;0;85.9;Alta;13.18;19;7
+2024-II;Jul;Ate;Manana;2 Sec;A;2024-II-Ate-2SecA-M;Historia;D583;28;1;81.5;Alta;12.26;18;10
+2024-I;Jun;San Juan;Tarde;4 Sec;A;2024-I-SanJuan-4SecA-T;Biologia;D815;25;1;78.1;Media;12.5;16;9
+2024-I;Jul;Callao;Tarde;5 Sec;A;2024-I-Callao-5SecA-T;Fisica;D330;23;1;85.0;Alta;11.48;14;9
+2024-II;Nov;Surco;Manana;5 Sec;D;2024-II-Surco-5SecD-M;Biologia;D539;24;0;77.4;Media;11.24;14;10
+2025-I;Jun;Lima Centro;Tarde;4 Sec;C;2025-I-LimaCentro-4SecC-T;Ingles;D966;30;1;85.3;Alta;12.4;20;10
+2024-I;Nov;San Juan;Manana;4 Sec;B;2024-I-SanJuan-4SecB-M;Comunicacion;D562;28;1;83.2;Alta;8.73;14;14
+2025-I;Jun;Callao;Noche;4 Sec;B;2025-I-Callao-4SecB-N;Ciencia;D344;20;0;78.6;Media;8.82;9;11
+2025-I;May;Surco;Tarde;5 Sec;C;2025-I-Surco-5SecC-T;Ingles;D292;30;1;75.6;Media;10.94;17;13
+2024-II;Abr;Lima Centro;Tarde;3 Sec;C;2024-II-LimaCentro-3SecC-T;Comunicacion;D599;26;0;79.0;Media;10.46;14;12
+2025-I;Sep;Callao;Noche;4 Sec;D;2025-I-Callao-4SecD-N;Ingles;D567;18;0;80.9;Alta;11.54;11;7
+2024-I;Oct;San Juan;Tarde;2 Sec;C;2024-I-SanJuan-2SecC-T;Fisica;D801;32;0;77.3;Media;10.6;18;14
+2024-I;Sep;San Juan;Tarde;1 Sec;B;2024-I-SanJuan-1SecB-T;Ingles;D269;30;0;75.4;Media;13.2;20;10
+2025-I;May;Callao;Tarde;5 Sec;C;2025-I-Callao-5SecC-T;Economia;D633;24;0;78.7;Media;11.09;14;10
+2025-I;Jul;San Juan;Manana;2 Sec;A;2025-I-SanJuan-2SecA-M;Biologia;D815;28;0;79.4;Media;13.25;19;9
+2024-I;Abr;Callao;Noche;3 Sec;A;2024-I-Callao-3SecA-N;Economia;D633;17;0;84.2;Alta;10.73;10;7
+2025-I;Ago;Callao;Tarde;4 Sec;D;2025-I-Callao-4SecD-T;Ingles;D567;28;1;88.5;Alta;12.68;20;8
+2024-I;Nov;Ate;Tarde;1 Sec;D;2024-I-Ate-1SecD-T;Biologia;D127;40;0;82.2;Alta;9.7;21;19
+2024-I;Nov;Surco;Noche;2 Sec;B;2024-I-Surco-2SecB-N;Economia;D786;18;2;81.2;Alta;10.94;10;8
+2024-I;Ago;Ate;Tarde;5 Sec;A;2024-I-Ate-5SecA-T;Matematica;D906;30;1;82.0;Alta;11.35;18;12
+2024-I;Nov;Callao;Manana;1 Sec;D;2024-I-Callao-1SecD-M;Historia;D246;35;1;89.6;Alta;11.1;22;13
+2024-II;May;Ate;Tarde;4 Sec;A;2024-II-Ate-4SecA-T;Quimica;D533;23;1;73.2;Media;9.18;10;13
+2025-I;Jun;Callao;Tarde;2 Sec;A;2025-I-Callao-2SecA-T;Historia;D246;27;0;87.4;Alta;13.29;20;7
+2024-II;Jul;Lima Centro;Tarde;3 Sec;B;2024-II-LimaCentro-3SecB-T;Fisica;D677;30;0;87.0;Alta;11.17;19;11
+2024-I;Oct;Ate;Noche;2 Sec;A;2024-I-Ate-2SecA-N;Computacion;D170;28;0;81.9;Alta;11.37;17;11
+2024-I;Jul;Lima Centro;Tarde;4 Sec;C;2024-I-LimaCentro-4SecC-T;Ciencia;D827;30;0;83.0;Alta;10.37;17;13
+2024-I;Sep;Ate;Noche;2 Sec;C;2024-I-Ate-2SecC-N;Historia;D583;16;0;84.0;Alta;10.15;9;7
+2024-I;Ago;Callao;Tarde;2 Sec;D;2024-I-Callao-2SecD-T;Ciencia;D344;33;0;79.0;Media;12.05;21;12
+2024-II;Jul;Surco;Noche;1 Sec;A;2024-II-Surco-1SecA-N;Matematica;D261;16;0;80.2;Alta;11.08;9;7
+2024-II;Jul;San Juan;Manana;2 Sec;C;2024-II-SanJuan-2SecC-M;Biologia;D815;36;0;95.3;Muy Alta;12.01;26;10
+2024-I;Jul;San Juan;Manana;3 Sec;D;2024-I-SanJuan-3SecD-M;Fisica;D801;34;0;88.1;Alta;11.72;23;11
+2024-II;Jul;Lima Centro;Tarde;2 Sec;A;2024-II-LimaCentro-2SecA-T;Quimica;D844;30;0;80.3;Alta;8.81;14;16
+2024-I;Jun;Ate;Tarde;2 Sec;C;2024-I-Ate-2SecC-T;Matematica;D906;38;0;90.2;Muy Alta;11.02;24;14
+2024-II;Ago;Lima Centro;Tarde;3 Sec;B;2024-II-LimaCentro-3SecB-T;Matematica;D465;30;0;83.3;Alta;12.53;20;10
+2024-II;Sep;Surco;Tarde;2 Sec;C;2024-II-Surco-2SecC-T;Computacion;D149;23;1;89.6;Alta;13.36;17;6
+2024-I;Sep;Ate;Manana;1 Sec;B;2024-I-Ate-1SecB-M;Ciencia;D110;47;0;91.9;Muy Alta;13.0;35;12
+2024-II;Nov;San Juan;Manana;4 Sec;C;2024-II-SanJuan-4SecC-M;Comunicacion;D562;40;0;82.6;Alta;11.72;25;15
+2024-I;Jun;Surco;Manana;4 Sec;A;2024-I-Surco-4SecA-M;Comunicacion;D751;28;0;90.3;Muy Alta;12.2;19;9
+2024-I;Sep;Callao;Manana;2 Sec;D;2024-I-Callao-2SecD-M;Fisica;D330;44;0;88.8;Alta;13.58;34;10
+2024-I;Oct;Surco;Manana;2 Sec;B;2024-I-Surco-2SecB-M;Fisica;D879;39;1;91.2;Muy Alta;12.61;28;11
+2025-I;Oct;Ate;Noche;3 Sec;D;2025-I-Ate-3SecD-N;Computacion;D170;26;1;78.0;Media;12.93;17;9
+2024-I;Abr;Ate;Tarde;1 Sec;A;2024-I-Ate-1SecA-T;Ingles;D934;35;0;80.7;Alta;9.08;17;18
+2025-I;Jul;San Juan;Tarde;2 Sec;D;2025-I-SanJuan-2SecD-T;Economia;D454;39;1;88.5;Alta;13.87;30;9
+2024-II;May;Lima Centro;Manana;5 Sec;C;2024-II-LimaCentro-5SecC-M;Matematica;D465;28;0;100.0;Muy Alta;10.49;18;10
+2024-I;May;Surco;Manana;2 Sec;B;2024-I-Surco-2SecB-M;Comunicacion;D751;37;0;81.2;Alta;12.08;24;13
+2025-I;Mar;Callao;Manana;2 Sec;C;2025-I-Callao-2SecC-M;Fisica;D330;39;0;89.1;Alta;9.28;21;18
+2025-I;Abr;Surco;Tarde;3 Sec;C;2025-I-Surco-3SecC-T;Ingles;D292;24;0;100.0;Muy Alta;13.55;19;5
+2025-I;Jul;San Juan;Tarde;1 Sec;A;2025-I-SanJuan-1SecA-T;Biologia;D815;26;1;82.3;Alta;11.5;16;10
+2024-I;Ago;Lima Centro;Noche;2 Sec;C;2024-I-LimaCentro-2SecC-N;Computacion;D324;27;1;78.8;Media;9.02;13;14
+2025-I;Mar;Lima Centro;Manana;2 Sec;B;2025-I-LimaCentro-2SecB-M;Ciencia;D827;37;0;87.2;Alta;11.52;24;13
+2025-I;Ago;Surco;Tarde;4 Sec;C;2025-I-Surco-4SecC-T;Ciencia;D130;22;0;85.9;Alta;12.79;15;7
+2024-I;Jul;Surco;Tarde;3 Sec;D;2024-I-Surco-3SecD-T;Matematica;D261;31;0;92.9;Muy Alta;11.76;21;10
+2024-II;Abr;Lima Centro;Tarde;4 Sec;C;2024-II-LimaCentro-4SecC-T;Ciencia;D827;30;0;81.8;Alta;11.04;18;12
+2024-II;Abr;San Juan;Manana;2 Sec;B;2024-II-SanJuan-2SecB-M;Quimica;D395;40;0;87.7;Alta;11.58;26;14
+2024-I;May;Surco;Tarde;1 Sec;C;2024-I-Surco-1SecC-T;Comunicacion;D751;24;0;90.8;Muy Alta;11.9;16;8
+2025-I;Jun;San Juan;Tarde;4 Sec;B;2025-I-SanJuan-4SecB-T;Fisica;D801;28;0;78.9;Media;11.57;17;11
+2024-II;Ago;Ate;Tarde;5 Sec;D;2024-II-Ate-5SecD-T;Comunicacion;D909;24;0;86.2;Alta;12.71;17;7
+2025-I;Mar;Ate;Manana;5 Sec;D;2025-I-Ate-5SecD-M;Computacion;D170;31;0;88.0;Alta;10.59;19;12
+2024-II;Ago;Callao;Noche;1 Sec;D;2024-II-Callao-1SecD-N;Fisica;D330;30;0;75.9;Media;11.39;17;13
+2024-II;Jun;Callao;Tarde;3 Sec;C;2024-II-Callao-3SecC-T;Quimica;D828;38;0;80.8;Alta;11.16;23;15
+2024-I;Nov;Callao;Manana;2 Sec;D;2024-I-Callao-2SecD-M;Quimica;D828;32;1;89.8;Alta;10.7;20;12
+2024-I;Ago;Lima Centro;Tarde;4 Sec;B;2024-I-LimaCentro-4SecB-T;Quimica;D844;32;1;83.6;Alta;10.63;19;13
+2025-I;Sep;Callao;Manana;3 Sec;D;2025-I-Callao-3SecD-M;Historia;D246;29;1;86.3;Alta;11.6;19;10
+2025-I;Jun;Lima Centro;Manana;3 Sec;B;2025-I-LimaCentro-3SecB-M;Economia;D261;41;0;90.2;Muy Alta;11.49;27;14
+2024-I;May;Callao;Tarde;5 Sec;B;2024-I-Callao-5SecB-T;Matematica;D944;35;0;82.1;Alta;13.62;25;10
+2024-I;Mar;San Juan;Tarde;1 Sec;B;2024-I-SanJuan-1SecB-T;Economia;D454;38;0;78.2;Media;11.45;23;15
+2024-I;Mar;Callao;Manana;4 Sec;C;2024-I-Callao-4SecC-M;Matematica;D944;34;0;94.0;Muy Alta;10.41;21;13
+2024-II;Mar;Callao;Manana;3 Sec;C;2024-II-Callao-3SecC-M;Economia;D633;36;1;94.7;Muy Alta;12.83;27;9
+2025-I;Jul;Callao;Manana;5 Sec;D;2025-I-Callao-5SecD-M;Ingles;D567;42;0;92.0;Muy Alta;12.17;30;12
+2024-I;Abr;Lima Centro;Manana;3 Sec;D;2024-I-LimaCentro-3SecD-M;Comunicacion;D599;33;0;99.4;Muy Alta;11.31;23;10
+2024-II;Jun;Surco;Manana;1 Sec;B;2024-II-Surco-1SecB-M;Computacion;D149;44;0;94.2;Muy Alta;11.12;29;15
+2024-II;Sep;Callao;Manana;4 Sec;A;2024-II-Callao-4SecA-M;Economia;D633;41;1;79.2;Media;10.89;24;17
+2025-I;Abr;Ate;Tarde;3 Sec;B;2025-I-Ate-3SecB-T;Comunicacion;D909;22;0;92.0;Muy Alta;12.87;16;6
+2024-I;Nov;Callao;Tarde;2 Sec;D;2024-I-Callao-2SecD-T;Computacion;D744;30;0;83.5;Alta;10.72;18;12
+2024-I;Abr;Ate;Manana;3 Sec;B;2024-I-Ate-3SecB-M;Comunicacion;D909;36;0;79.1;Media;12.68;24;12
+2024-II;Jun;Surco;Tarde;4 Sec;D;2024-II-Surco-4SecD-T;Comunicacion;D751;24;0;80.6;Alta;12.17;15;9
+2024-II;Abr;Ate;Manana;3 Sec;B;2024-II-Ate-3SecB-M;Economia;D876;39;0;96.3;Muy Alta;11.4;27;12
+2024-I;Jul;Callao;Noche;3 Sec;A;2024-I-Callao-3SecA-N;Economia;D633;27;0;71.0;Media;9.24;12;15
+2025-I;Oct;Surco;Tarde;3 Sec;D;2025-I-Surco-3SecD-T;Biologia;D539;37;0;84.4;Alta;13.17;27;10
+2024-II;Jun;San Juan;Manana;4 Sec;D;2024-II-SanJuan-4SecD-M;Biologia;D815;40;0;91.4;Muy Alta;13.79;31;9
+2024-I;Jun;Callao;Manana;5 Sec;B;2024-I-Callao-5SecB-M;Historia;D246;42;0;89.5;Alta;11.79;28;14
+2024-II;Mar;Callao;Manana;5 Sec;C;2024-II-Callao-5SecC-M;Computacion;D744;27;1;90.8;Muy Alta;12.34;19;8
+2025-I;Nov;Ate;Tarde;2 Sec;A;2025-I-Ate-2SecA-T;Matematica;D906;30;0;85.7;Alta;11.13;19;11
+2025-I;Nov;Lima Centro;Tarde;2 Sec;D;2025-I-LimaCentro-2SecD-T;Comunicacion;D599;36;0;81.2;Alta;12.61;24;12
+2024-I;Nov;San Juan;Manana;5 Sec;D;2024-I-SanJuan-5SecD-M;Matematica;D171;25;1;76.7;Media;9.75;13;12
+2025-I;Ago;San Juan;Tarde;2 Sec;B;2025-I-SanJuan-2SecB-T;Economia;D454;39;0;79.4;Media;13.08;27;12
+2024-I;Sep;Ate;Manana;1 Sec;D;2024-I-Ate-1SecD-M;Ingles;D934;41;0;91.7;Muy Alta;8.26;21;20
+2024-II;Sep;San Juan;Manana;1 Sec;A;2024-II-SanJuan-1SecA-M;Historia;D452;40;1;79.1;Media;12.5;26;14
+2024-II;Abr;San Juan;Tarde;5 Sec;C;2024-II-SanJuan-5SecC-T;Ciencia;D883;19;0;72.5;Media;9.4;9;10
+2025-I;Abr;San Juan;Manana;3 Sec;D;2025-I-SanJuan-3SecD-M;Quimica;D395;47;0;89.8;Alta;9.95;28;19
+2024-II;May;Lima Centro;Tarde;2 Sec;B;2024-II-LimaCentro-2SecB-T;Computacion;D324;28;1;77.0;Media;11.85;17;11
+2024-I;Jul;Surco;Manana;3 Sec;B;2024-I-Surco-3SecB-M;Ciencia;D130;35;0;80.9;Alta;10.66;20;15
+2024-II;Ago;Lima Centro;Manana;1 Sec;D;2024-II-LimaCentro-1SecD-M;Historia;D291;38;0;92.2;Muy Alta;11.47;26;12
+2024-I;Jul;Ate;Tarde;1 Sec;D;2024-I-Ate-1SecD-T;Ingles;D934;35;0;83.2;Alta;10.01;19;16
+2025-I;Nov;Callao;Tarde;4 Sec;B;2025-I-Callao-4SecB-T;Economia;D633;24;0;79.6;Media;12.09;15;9
+2024-I;Sep;San Juan;Manana;1 Sec;C;2024-I-SanJuan-1SecC-M;Ciencia;D883;33;0;86.4;Alta;13.33;24;9
+2024-I;Abr;San Juan;Manana;5 Sec;C;2024-I-SanJuan-5SecC-M;Economia;D454;41;0;96.9;Muy Alta;11.93;29;12
+2024-II;Jun;San Juan;Manana;1 Sec;A;2024-II-SanJuan-1SecA-M;Fisica;D801;36;1;88.5;Alta;12.61;26;10
+2024-I;Abr;Callao;Tarde;4 Sec;B;2024-I-Callao-4SecB-T;Historia;D246;37;1;87.8;Alta;13.08;27;10
+2024-II;Nov;Lima Centro;Noche;5 Sec;A;2024-II-LimaCentro-5SecA-N;Ingles;D966;15;0;75.3;Media;10.67;8;7
+2024-II;Abr;Surco;Manana;1 Sec;C;2024-II-Surco-1SecC-M;Fisica;D879;43;0;78.7;Media;7.41;17;26
+2025-I;Sep;Ate;Manana;4 Sec;B;2025-I-Ate-4SecB-M;Fisica;D426;43;0;89.0;Alta;11.91;29;14
+2025-I;May;Callao;Manana;2 Sec;A;2025-I-Callao-2SecA-M;Fisica;D330;40;2;86.9;Alta;13.64;30;10
+2024-II;Mar;Callao;Manana;1 Sec;A;2024-II-Callao-1SecA-M;Historia;D246;46;0;91.6;Muy Alta;11.47;31;15
+2024-I;Jul;Surco;Tarde;3 Sec;C;2024-I-Surco-3SecC-T;Comunicacion;D751;37;1;87.0;Alta;10.49;22;15
+2024-I;Abr;Callao;Manana;3 Sec;C;2024-I-Callao-3SecC-M;Economia;D633;34;0;85.5;Alta;12.59;24;10
+2024-II;May;Lima Centro;Tarde;5 Sec;A;2024-II-LimaCentro-5SecA-T;Computacion;D324;33;0;82.5;Alta;10.59;19;14
+2024-I;Mar;Surco;Manana;1 Sec;A;2024-I-Surco-1SecA-M;Ciencia;D130;36;0;95.6;Muy Alta;12.1;26;10
+2025-I;Jun;Ate;Manana;5 Sec;A;2025-I-Ate-5SecA-M;Economia;D876;34;0;86.3;Alta;11.64;22;12
+2024-I;Jun;Surco;Tarde;1 Sec;C;2024-I-Surco-1SecC-T;Ciencia;D130;22;1;94.5;Muy Alta;13.59;17;5
+2024-I;Oct;Surco;Tarde;2 Sec;C;2024-I-Surco-2SecC-T;Fisica;D879;40;0;81.4;Alta;9.29;20;20
+2025-I;Mar;Callao;Manana;1 Sec;D;2025-I-Callao-1SecD-M;Economia;D633;37;0;92.7;Muy Alta;12.92;28;9
+2025-I;Ago;Callao;Manana;1 Sec;D;2025-I-Callao-1SecD-M;Fisica;D330;37;0;82.2;Alta;10.15;21;16
+2024-I;Nov;Callao;Manana;1 Sec;C;2024-I-Callao-1SecC-M;Historia;D246;35;0;84.1;Alta;10.32;20;15
+2024-I;Mar;Lima Centro;Manana;3 Sec;B;2024-I-LimaCentro-3SecB-M;Fisica;D677;44;0;92.4;Muy Alta;12.61;32;12
+2025-I;Jul;Surco;Manana;5 Sec;B;2025-I-Surco-5SecB-M;Computacion;D149;29;0;90.5;Muy Alta;13.15;22;7
+2024-II;Abr;Callao;Tarde;1 Sec;B;2024-II-Callao-1SecB-T;Comunicacion;D199;24;0;88.8;Alta;14.42;19;5
+2024-I;Oct;Surco;Manana;4 Sec;C;2024-I-Surco-4SecC-M;Computacion;D149;44;0;84.4;Alta;11.07;27;17
+2024-II;Jun;Lima Centro;Manana;3 Sec;A;2024-II-LimaCentro-3SecA-M;Comunicacion;D599;35;0;83.2;Alta;13.12;25;10
+2025-I;Sep;San Juan;Manana;1 Sec;B;2025-I-SanJuan-1SecB-M;Quimica;D395;46;0;80.7;Alta;12.49;31;15
+2024-I;Jun;Ate;Tarde;5 Sec;C;2024-I-Ate-5SecC-T;Economia;D876;35;0;82.1;Alta;12.03;23;12
+2025-I;Nov;Surco;Tarde;3 Sec;A;2025-I-Surco-3SecA-T;Comunicacion;D751;31;1;84.3;Alta;11.19;19;12
+2024-II;Mar;Callao;Manana;4 Sec;C;2024-II-Callao-4SecC-M;Computacion;D744;41;1;95.0;Muy Alta;13.94;33;8
+2024-I;Jul;San Juan;Manana;1 Sec;D;2024-I-SanJuan-1SecD-M;Fisica;D801;43;1;94.3;Muy Alta;10.97;28;15
+2025-I;Ago;Surco;Tarde;3 Sec;C;2025-I-Surco-3SecC-T;Computacion;D149;23;0;79.9;Media;12.28;15;8
+2024-I;Jul;Ate;Manana;3 Sec;A;2024-I-Ate-3SecA-M;Ciencia;D110;40;0;85.0;Alta;11.97;26;14
+2024-II;Oct;Lima Centro;Tarde;2 Sec;B;2024-II-LimaCentro-2SecB-T;Historia;D291;32;0;83.2;Alta;10.64;19;13
+2024-II;May;Ate;Manana;2 Sec;C;2024-II-Ate-2SecC-M;Ingles;D934;37;1;91.6;Muy Alta;10.9;24;13
+2024-I;Mar;Callao;Tarde;2 Sec;A;2024-I-Callao-2SecA-T;Computacion;D744;32;1;80.3;Alta;10.09;17;15
+2025-I;Abr;Ate;Tarde;1 Sec;B;2025-I-Ate-1SecB-T;Fisica;D426;32;0;92.0;Muy Alta;12.21;23;9
+2024-II;Ago;Lima Centro;Noche;2 Sec;A;2024-II-LimaCentro-2SecA-N;Ingles;D966;19;0;78.3;Media;11.3;11;8
+2024-I;Oct;Surco;Manana;1 Sec;B;2024-I-Surco-1SecB-M;Matematica;D261;38;0;83.2;Alta;10.56;22;16
+2024-I;Sep;Surco;Tarde;3 Sec;C;2024-I-Surco-3SecC-T;Computacion;D149;30;0;75.3;Media;12.39;19;11
+2024-I;Mar;San Juan;Manana;4 Sec;B;2024-I-SanJuan-4SecB-M;Ciencia;D883;33;0;96.3;Muy Alta;12.06;24;9
+2024-II;May;Lima Centro;Tarde;5 Sec;A;2024-II-LimaCentro-5SecA-T;Quimica;D844;20;0;77.0;Media;7.93;8;12
+2024-I;Mar;Ate;Manana;2 Sec;B;2024-I-Ate-2SecB-M;Biologia;D127;43;0;91.8;Muy Alta;11.38;29;14
+2024-II;Oct;Ate;Tarde;4 Sec;B;2024-II-Ate-4SecB-T;Economia;D876;31;0;78.8;Media;10.16;17;14
+2025-I;May;Lima Centro;Manana;4 Sec;C;2025-I-LimaCentro-4SecC-M;Matematica;D465;38;0;87.1;Alta;11.22;24;14
+2025-I;Jun;San Juan;Noche;1 Sec;B;2025-I-SanJuan-1SecB-N;Biologia;D815;20;0;81.1;Alta;11.81;12;8
+2024-I;Nov;Surco;Manana;5 Sec;A;2024-I-Surco-5SecA-M;Biologia;D539;37;0;89.8;Alta;13.65;28;9
+2024-I;Nov;Lima Centro;Tarde;4 Sec;B;2024-I-LimaCentro-4SecB-T;Economia;D261;28;0;91.5;Muy Alta;13.11;21;7
+2024-II;Jun;Lima Centro;Manana;1 Sec;C;2024-II-LimaCentro-1SecC-M;Ciencia;D827;39;1;76.7;Media;11.06;22;17
+2024-II;Oct;Ate;Manana;4 Sec;D;2024-II-Ate-4SecD-M;Ingles;D934;30;0;90.1;Muy Alta;13.67;23;7
+2024-II;Nov;Ate;Manana;4 Sec;C;2024-II-Ate-4SecC-M;Historia;D583;40;0;89.3;Alta;10.82;25;15
+2024-II;Jun;Ate;Tarde;4 Sec;A;2024-II-Ate-4SecA-T;Quimica;D533;30;1;82.4;Alta;13.07;21;9
+2025-I;May;Callao;Noche;1 Sec;D;2025-I-Callao-1SecD-N;Comunicacion;D199;29;1;88.8;Alta;14.19;23;6
+2024-I;Mar;Callao;Manana;3 Sec;D;2024-I-Callao-3SecD-M;Ingles;D567;33;1;100.0;Muy Alta;11.29;23;10
+2024-I;Ago;Lima Centro;Manana;5 Sec;D;2024-I-LimaCentro-5SecD-M;Biologia;D724;30;0;88.5;Alta;12.23;21;9
+2024-II;Mar;Ate;Noche;1 Sec;B;2024-II-Ate-1SecB-N;Economia;D876;22;0;84.1;Alta;11.54;14;8
+2024-I;Jun;Callao;Tarde;3 Sec;C;2024-I-Callao-3SecC-T;Historia;D246;29;0;70.9;Media;10.19;14;15
+2024-II;Abr;Lima Centro;Manana;3 Sec;C;2024-II-LimaCentro-3SecC-M;Ciencia;D827;30;0;100.0;Muy Alta;10.95;20;10
+2024-II;Jul;Callao;Tarde;5 Sec;D;2024-II-Callao-5SecD-T;Computacion;D744;28;1;78.2;Media;12.65;18;10
+2025-I;Sep;San Juan;Manana;5 Sec;B;2025-I-SanJuan-5SecB-M;Economia;D454;29;0;93.3;Muy Alta;13.58;23;6
+2025-I;Jun;Surco;Manana;1 Sec;D;2025-I-Surco-1SecD-M;Historia;D203;31;0;94.5;Muy Alta;13.27;24;7
+2024-I;Abr;Lima Centro;Manana;1 Sec;A;2024-I-LimaCentro-1SecA-M;Ciencia;D827;44;1;97.7;Muy Alta;14.14;37;7
+2024-I;Mar;Ate;Manana;1 Sec;D;2024-I-Ate-1SecD-M;Fisica;D426;44;0;86.9;Alta;10.51;26;18
+2025-I;Ago;San Juan;Manana;3 Sec;B;2025-I-SanJuan-3SecB-M;Matematica;D171;33;0;90.6;Muy Alta;10.35;20;13
+2024-II;Jul;Ate;Manana;3 Sec;B;2024-II-Ate-3SecB-M;Computacion;D170;38;0;86.4;Alta;9.25;20;18
+2024-I;Abr;Ate;Tarde;4 Sec;A;2024-I-Ate-4SecA-T;Fisica;D426;33;0;85.1;Alta;10.09;19;14
+2024-II;May;San Juan;Tarde;1 Sec;D;2024-II-SanJuan-1SecD-T;Ingles;D269;28;0;82.0;Alta;11.42;17;11
+2024-II;Jun;Lima Centro;Manana;3 Sec;B;2024-II-LimaCentro-3SecB-M;Quimica;D844;33;0;92.6;Muy Alta;10.0;20;13
+2025-I;Nov;Surco;Tarde;2 Sec;C;2025-I-Surco-2SecC-T;Biologia;D539;37;0;85.0;Alta;13.83;28;9
+2025-I;Oct;Surco;Manana;3 Sec;D;2025-I-Surco-3SecD-M;Historia;D203;39;1;79.8;Media;11.79;24;15
+2025-I;Ago;Callao;Tarde;1 Sec;B;2025-I-Callao-1SecB-T;Ingles;D567;25;1;85.5;Alta;11.89;16;9
+2024-II;Oct;Surco;Tarde;4 Sec;B;2024-II-Surco-4SecB-T;Historia;D203;22;0;82.0;Alta;13.22;15;7
+2025-I;Jul;San Juan;Manana;2 Sec;A;2025-I-SanJuan-2SecA-M;Ingles;D269;31;0;81.7;Alta;11.28;19;12
+2024-I;Mar;Ate;Tarde;4 Sec;B;2024-I-Ate-4SecB-T;Ingles;D934;24;0;81.5;Alta;12.18;15;9
+2024-I;Abr;Surco;Tarde;5 Sec;B;2024-I-Surco-5SecB-T;Ingles;D292;37;1;86.4;Alta;12.61;26;11
+2024-I;Jun;Ate;Manana;5 Sec;D;2024-I-Ate-5SecD-M;Fisica;D426;33;0;84.4;Alta;11.37;21;12
+2025-I;Nov;Ate;Manana;1 Sec;D;2025-I-Ate-1SecD-M;Ingles;D934;42;0;82.7;Alta;11.72;27;15
+2024-I;Sep;San Juan;Tarde;4 Sec;B;2024-I-SanJuan-4SecB-T;Comunicacion;D562;28;1;92.7;Muy Alta;10.7;18;10
+2024-II;Mar;Ate;Manana;1 Sec;A;2024-II-Ate-1SecA-M;Historia;D583;48;1;89.8;Alta;12.73;35;13
+2024-II;May;Ate;Manana;3 Sec;A;2024-II-Ate-3SecA-M;Matematica;D906;35;0;78.2;Media;10.07;19;16
+2025-I;Ago;Callao;Manana;1 Sec;C;2025-I-Callao-1SecC-M;Economia;D633;44;0;88.1;Alta;10.41;26;18
+2024-II;Jul;Ate;Tarde;2 Sec;A;2024-II-Ate-2SecA-T;Matematica;D906;36;0;85.2;Alta;13.26;26;10
+2024-I;Jul;Lima Centro;Manana;5 Sec;C;2024-I-LimaCentro-5SecC-M;Comunicacion;D599;44;0;85.8;Alta;11.36;28;16
+2024-II;Oct;San Juan;Manana;1 Sec;D;2024-II-SanJuan-1SecD-M;Economia;D454;41;1;85.2;Alta;11.18;26;15
+2024-I;Jul;Lima Centro;Noche;1 Sec;D;2024-I-LimaCentro-1SecD-N;Ingles;D966;30;0;82.3;Alta;13.21;21;9
+2024-I;Abr;Ate;Manana;2 Sec;C;2024-I-Ate-2SecC-M;Ciencia;D110;43;0;80.4;Alta;9.35;22;21
+2024-II;May;Ate;Manana;5 Sec;A;2024-II-Ate-5SecA-M;Historia;D583;37;0;80.6;Alta;12.38;24;13
+2024-I;Oct;Surco;Tarde;5 Sec;A;2024-I-Surco-5SecA-T;Ciencia;D130;24;0;82.0;Alta;11.67;15;9
+2025-I;Nov;Callao;Manana;3 Sec;B;2025-I-Callao-3SecB-M;Quimica;D828;44;0;80.3;Alta;9.14;22;22
+2024-II;Sep;Lima Centro;Tarde;2 Sec;A;2024-II-LimaCentro-2SecA-T;Ingles;D966;34;1;74.6;Media;13.0;22;12
+2024-I;Ago;Lima Centro;Tarde;3 Sec;A;2024-I-LimaCentro-3SecA-T;Fisica;D677;31;0;90.5;Muy Alta;13.55;24;7
+2025-I;Jun;Ate;Manana;5 Sec;A;2025-I-Ate-5SecA-M;Comunicacion;D909;39;1;96.3;Muy Alta;12.88;30;9
+2024-I;Sep;San Juan;Manana;1 Sec;D;2024-I-SanJuan-1SecD-M;Economia;D454;28;0;87.7;Alta;12.15;19;9
+2024-I;Mar;Callao;Tarde;4 Sec;A;2024-I-Callao-4SecA-T;Comunicacion;D199;34;1;76.2;Media;9.67;17;17
+2025-I;Sep;Ate;Manana;2 Sec;D;2025-I-Ate-2SecD-M;Ciencia;D110;32;0;90.5;Muy Alta;12.43;23;9
+2024-I;Mar;Lima Centro;Tarde;1 Sec;C;2024-I-LimaCentro-1SecC-T;Historia;D291;38;1;80.5;Alta;12.21;25;13
+2025-I;Sep;Lima Centro;Tarde;2 Sec;C;2025-I-LimaCentro-2SecC-T;Ingles;D966;28;1;88.7;Alta;12.38;19;9
+2024-I;Ago;Ate;Manana;5 Sec;B;2024-I-Ate-5SecB-M;Quimica;D533;26;0;85.1;Alta;9.89;14;12
+2024-II;Abr;Lima Centro;Tarde;2 Sec;A;2024-II-LimaCentro-2SecA-T;Historia;D291;37;1;90.5;Muy Alta;12.31;26;11
+2024-II;Abr;Lima Centro;Tarde;5 Sec;C;2024-II-LimaCentro-5SecC-T;Quimica;D844;27;1;79.7;Media;11.33;16;11
+2024-I;Jul;Ate;Manana;5 Sec;B;2024-I-Ate-5SecB-M;Quimica;D533;37;1;75.2;Media;10.71;20;17
+2024-I;Ago;Ate;Tarde;3 Sec;B;2024-I-Ate-3SecB-T;Fisica;D426;28;1;81.7;Alta;9.05;14;14
+2024-II;Ago;San Juan;Manana;5 Sec;C;2024-II-SanJuan-5SecC-M;Biologia;D815;39;0;92.4;Muy Alta;11.47;26;13
+2024-II;Mar;San Juan;Manana;4 Sec;C;2024-II-SanJuan-4SecC-M;Quimica;D395;43;2;100.0;Muy Alta;11.14;30;13
+2024-I;Nov;San Juan;Manana;1 Sec;D;2024-I-SanJuan-1SecD-M;Ingles;D269;35;0;96.8;Muy Alta;12.41;26;9
+2024-II;Ago;Ate;Tarde;2 Sec;B;2024-II-Ate-2SecB-T;Ingles;D934;27;0;92.8;Muy Alta;13.18;20;7
+2025-I;Nov;Lima Centro;Manana;5 Sec;B;2025-I-LimaCentro-5SecB-M;Economia;D261;27;0;76.9;Media;8.77;12;15
+2024-I;Jun;Lima Centro;Tarde;4 Sec;D;2024-I-LimaCentro-4SecD-T;Ciencia;D827;29;0;75.2;Media;11.59;17;12
+2025-I;Abr;Callao;Manana;4 Sec;B;2025-I-Callao-4SecB-M;Fisica;D330;40;0;87.5;Alta;10.03;23;17
+2024-I;Sep;Surco;Manana;4 Sec;A;2024-I-Surco-4SecA-M;Computacion;D149;46;1;96.6;Muy Alta;12.99;35;11
+2024-II;Oct;San Juan;Tarde;4 Sec;B;2024-II-SanJuan-4SecB-T;Ciencia;D883;32;0;85.0;Alta;13.44;23;9
+2024-II;Oct;Ate;Manana;5 Sec;B;2024-II-Ate-5SecB-M;Matematica;D906;42;2;84.1;Alta;10.36;24;18
+2024-II;Oct;Callao;Tarde;2 Sec;C;2024-II-Callao-2SecC-T;Ingles;D567;36;0;92.8;Muy Alta;11.04;23;13
+2025-I;Nov;Surco;Manana;5 Sec;D;2025-I-Surco-5SecD-M;Economia;D786;26;0;84.8;Alta;10.08;15;11
+2025-I;Nov;Lima Centro;Noche;3 Sec;B;2025-I-LimaCentro-3SecB-N;Ingles;D966;17;1;77.4;Media;9.81;8;9
+2025-I;Abr;San Juan;Noche;1 Sec;C;2025-I-SanJuan-1SecC-N;Comunicacion;D562;20;0;78.9;Media;10.76;11;9
+2025-I;Abr;Ate;Manana;1 Sec;A;2025-I-Ate-1SecA-M;Fisica;D426;40;0;94.6;Muy Alta;12.4;29;11
+2025-I;Mar;Lima Centro;Noche;4 Sec;A;2025-I-LimaCentro-4SecA-N;Biologia;D724;16;1;75.4;Media;9.59;8;8
+2024-I;Abr;Callao;Noche;3 Sec;A;2024-I-Callao-3SecA-N;Fisica;D330;24;0;82.8;Alta;10.12;13;11
+2025-I;Sep;Lima Centro;Manana;1 Sec;A;2025-I-LimaCentro-1SecA-M;Quimica;D844;36;0;88.3;Alta;12.77;26;10
+2024-II;Oct;Ate;Manana;4 Sec;A;2024-II-Ate-4SecA-M;Historia;D583;38;0;92.3;Muy Alta;15.08;32;6
+2024-I;Mar;Callao;Manana;2 Sec;C;2024-I-Callao-2SecC-M;Ciencia;D344;42;1;89.8;Alta;12.45;30;12
+2024-I;Sep;Surco;Manana;1 Sec;C;2024-I-Surco-1SecC-M;Computacion;D149;49;0;87.2;Alta;12.75;35;14
+2025-I;Abr;Lima Centro;Manana;1 Sec;D;2025-I-LimaCentro-1SecD-M;Economia;D261;34;0;93.6;Muy Alta;12.18;24;10
+2024-II;Abr;Callao;Manana;5 Sec;B;2024-II-Callao-5SecB-M;Historia;D246;36;0;88.1;Alta;12.99;26;10
+2024-I;Mar;San Juan;Manana;1 Sec;B;2024-I-SanJuan-1SecB-M;Economia;D454;35;0;90.4;Muy Alta;13.47;27;8
+2024-II;Mar;Lima Centro;Manana;4 Sec;B;2024-II-LimaCentro-4SecB-M;Quimica;D844;35;1;83.6;Alta;9.36;18;17
+2024-I;Jun;Surco;Manana;5 Sec;B;2024-I-Surco-5SecB-M;Economia;D786;38;0;98.7;Muy Alta;12.04;28;10
+2024-II;Jul;Callao;Noche;2 Sec;D;2024-II-Callao-2SecD-N;Comunicacion;D199;27;0;77.0;Media;10.48;15;12
+2024-II;Oct;Surco;Manana;3 Sec;A;2024-II-Surco-3SecA-M;Historia;D203;43;0;81.0;Alta;12.16;28;15
+2024-II;Oct;Callao;Tarde;4 Sec;A;2024-II-Callao-4SecA-T;Ingles;D567;23;0;79.8;Media;12.55;15;8
+2024-I;Oct;San Juan;Manana;2 Sec;A;2024-I-SanJuan-2SecA-M;Fisica;D801;37;0;92.3;Muy Alta;11.79;25;12
+2024-I;Abr;Surco;Tarde;5 Sec;A;2024-I-Surco-5SecA-T;Computacion;D149;25;0;80.4;Alta;11.97;16;9
+2024-II;Mar;Ate;Tarde;5 Sec;A;2024-II-Ate-5SecA-T;Fisica;D426;25;0;100.0;Muy Alta;14.13;21;4
+2025-I;Jun;Ate;Noche;1 Sec;B;2025-I-Ate-1SecB-N;Computacion;D170;28;0;78.3;Media;10.12;15;13
+2025-I;Ago;Surco;Manana;4 Sec;A;2025-I-Surco-4SecA-M;Quimica;D890;24;0;85.8;Alta;11.32;15;9
+2024-II;Oct;San Juan;Tarde;5 Sec;B;2024-II-SanJuan-5SecB-T;Ingles;D269;19;0;76.9;Media;9.91;10;9
+2024-II;Nov;Ate;Manana;4 Sec;C;2024-II-Ate-4SecC-M;Matematica;D906;47;1;87.5;Alta;12.68;33;14
+2025-I;Nov;Ate;Manana;2 Sec;A;2025-I-Ate-2SecA-M;Economia;D876;29;0;100.0;Muy Alta;11.03;20;9
+2025-I;Sep;Lima Centro;Manana;1 Sec;A;2025-I-LimaCentro-1SecA-M;Quimica;D844;41;0;86.7;Alta;11.02;26;15
+2024-II;Mar;Lima Centro;Noche;3 Sec;A;2024-II-LimaCentro-3SecA-N;Comunicacion;D599;14;1;81.8;Alta;12.96;9;5
+2025-I;Nov;Callao;Manana;4 Sec;D;2025-I-Callao-4SecD-M;Biologia;D818;38;0;80.2;Alta;11.21;23;15
+2024-I;Ago;Callao;Tarde;5 Sec;B;2024-I-Callao-5SecB-T;Computacion;D744;19;1;84.3;Alta;13.45;14;5
+2024-I;Jun;Surco;Manana;4 Sec;B;2024-I-Surco-4SecB-M;Computacion;D149;36;0;91.1;Muy Alta;11.11;23;13
+2024-I;Abr;Callao;Noche;2 Sec;B;2024-I-Callao-2SecB-N;Economia;D633;18;1;71.2;Media;10.69;9;9
+2025-I;Abr;Surco;Tarde;5 Sec;D;2025-I-Surco-5SecD-T;Fisica;D879;32;1;91.0;Muy Alta;14.25;26;6
+2025-I;Oct;Lima Centro;Tarde;4 Sec;B;2025-I-LimaCentro-4SecB-T;Comunicacion;D599;21;0;74.8;Media;11.43;12;9
+2024-II;Jul;Callao;Manana;4 Sec;D;2024-II-Callao-4SecD-M;Ingles;D567;35;0;89.2;Alta;12.87;25;10
+2024-II;Jul;Surco;Manana;2 Sec;A;2024-II-Surco-2SecA-M;Comunicacion;D751;32;0;72.8;Media;10.45;17;15
+2024-I;Nov;Ate;Manana;5 Sec;C;2024-I-Ate-5SecC-M;Comunicacion;D909;39;0;80.1;Alta;9.22;19;20
+2024-II;Jun;Lima Centro;Tarde;3 Sec;B;2024-II-LimaCentro-3SecB-T;Historia;D291;34;0;85.0;Alta;10.24;19;15
+2024-II;May;Surco;Manana;3 Sec;D;2024-II-Surco-3SecD-M;Matematica;D261;41;1;83.7;Alta;10.72;24;17
+2024-II;Mar;Ate;Tarde;2 Sec;D;2024-II-Ate-2SecD-T;Fisica;D426;29;1;92.6;Muy Alta;11.73;20;9
+2024-I;Mar;San Juan;Manana;4 Sec;C;2024-I-SanJuan-4SecC-M;Ingles;D269;31;1;86.3;Alta;8.63;15;16
+2024-II;Ago;San Juan;Tarde;3 Sec;D;2024-II-SanJuan-3SecD-T;Ciencia;D883;35;0;79.9;Media;11.91;22;13
+2024-II;Mar;Surco;Manana;5 Sec;D;2024-II-Surco-5SecD-M;Computacion;D149;42;1;89.1;Alta;12.35;29;13
+2024-II;May;San Juan;Manana;2 Sec;A;2024-II-SanJuan-2SecA-M;Ingles;D269;39;0;86.2;Alta;12.42;27;12
+2025-I;Oct;Surco;Manana;2 Sec;D;2025-I-Surco-2SecD-M;Ciencia;D130;41;0;87.4;Alta;11.1;26;15
+2024-II;Jul;San Juan;Manana;2 Sec;B;2024-II-SanJuan-2SecB-M;Comunicacion;D562;45;0;92.4;Muy Alta;12.6;33;12
+2025-I;Ago;Callao;Noche;2 Sec;C;2025-I-Callao-2SecC-N;Economia;D633;20;0;84.9;Alta;9.82;11;9
+2024-II;Oct;Surco;Tarde;4 Sec;D;2024-II-Surco-4SecD-T;Comunicacion;D751;26;1;79.1;Media;9.07;12;14
+2025-I;Nov;San Juan;Tarde;5 Sec;A;2025-I-SanJuan-5SecA-T;Quimica;D395;32;0;79.7;Media;9.4;16;16
+2024-II;Jun;Callao;Manana;5 Sec;A;2024-II-Callao-5SecA-M;Matematica;D944;26;0;86.9;Alta;12.81;18;8
+2025-I;May;Lima Centro;Manana;5 Sec;B;2025-I-LimaCentro-5SecB-M;Computacion;D324;24;0;95.0;Muy Alta;12.03;17;7
+2024-I;Sep;Callao;Manana;2 Sec;D;2024-I-Callao-2SecD-M;Biologia;D818;28;0;87.1;Alta;11.52;18;10
+2024-I;May;Callao;Tarde;4 Sec;A;2024-I-Callao-4SecA-T;Fisica;D330;18;0;89.7;Alta;11.08;11;7
+2025-I;Mar;San Juan;Manana;3 Sec;C;2025-I-SanJuan-3SecC-M;Ingles;D269;47;0;84.6;Alta;11.49;30;17
+2024-II;Abr;San Juan;Manana;5 Sec;A;2024-II-SanJuan-5SecA-M;Computacion;D785;29;0;83.0;Alta;9.45;15;14
+2024-I;May;Callao;Manana;2 Sec;A;2024-I-Callao-2SecA-M;Ingles;D567;38;0;86.1;Alta;12.66;27;11
+2024-II;Jun;Lima Centro;Tarde;1 Sec;B;2024-II-LimaCentro-1SecB-T;Historia;D291;33;0;75.1;Media;10.52;18;15
+2025-I;Jun;San Juan;Tarde;3 Sec;D;2025-I-SanJuan-3SecD-T;Historia;D452;28;0;76.8;Media;11.06;16;12
+2025-I;Mar;Ate;Manana;4 Sec;A;2025-I-Ate-4SecA-M;Ciencia;D110;43;0;95.5;Muy Alta;11.23;29;14
+2025-I;Oct;Callao;Manana;1 Sec;C;2025-I-Callao-1SecC-M;Fisica;D330;35;0;81.0;Alta;11.38;21;14
+2025-I;Mar;San Juan;Tarde;3 Sec;A;2025-I-SanJuan-3SecA-T;Historia;D452;28;0;90.3;Muy Alta;11.39;18;10
+2024-II;Sep;Ate;Tarde;4 Sec;D;2024-II-Ate-4SecD-T;Comunicacion;D909;25;1;84.3;Alta;11.24;15;10
+2024-I;Oct;Lima Centro;Manana;3 Sec;B;2024-I-LimaCentro-3SecB-M;Ciencia;D827;44;0;78.2;Media;12.1;28;16
+2024-I;May;San Juan;Tarde;2 Sec;A;2024-I-SanJuan-2SecA-T;Quimica;D395;27;1;79.1;Media;10.16;14;13
+2024-I;Ago;Surco;Manana;1 Sec;B;2024-I-Surco-1SecB-M;Ingles;D292;29;0;93.7;Muy Alta;10.86;19;10
+2024-II;Oct;Surco;Manana;1 Sec;D;2024-II-Surco-1SecD-M;Economia;D786;40;0;78.6;Media;12.74;27;13
+2025-I;Jul;Callao;Tarde;2 Sec;A;2025-I-Callao-2SecA-T;Matematica;D944;28;0;73.3;Media;8.82;12;16
+2024-I;Jul;Surco;Manana;1 Sec;C;2024-I-Surco-1SecC-M;Comunicacion;D751;44;0;87.1;Alta;9.83;25;19
+2025-I;Abr;Ate;Manana;3 Sec;C;2025-I-Ate-3SecC-M;Ingles;D934;48;0;81.5;Alta;12.22;32;16
+2025-I;Ago;Lima Centro;Tarde;5 Sec;D;2025-I-LimaCentro-5SecD-T;Biologia;D724;28;0;83.0;Alta;10.92;17;11
+2024-II;Nov;Surco;Manana;5 Sec;C;2024-II-Surco-5SecC-M;Comunicacion;D751;40;1;86.0;Alta;9.38;21;19
+2024-I;Jul;Lima Centro;Manana;4 Sec;A;2024-I-LimaCentro-4SecA-M;Fisica;D677;40;0;91.1;Muy Alta;12.7;29;11
+2024-I;May;Callao;Tarde;5 Sec;B;2024-I-Callao-5SecB-T;Economia;D633;25;0;75.3;Media;11.66;15;10
+2025-I;Sep;Surco;Tarde;4 Sec;A;2025-I-Surco-4SecA-T;Computacion;D149;21;1;78.8;Media;13.09;14;7
+2024-II;Jul;Callao;Manana;3 Sec;A;2024-II-Callao-3SecA-M;Computacion;D744;40;1;98.2;Muy Alta;11.38;28;12
+2024-II;Nov;Callao;Manana;3 Sec;C;2024-II-Callao-3SecC-M;Fisica;D330;47;1;93.5;Muy Alta;10.83;30;17
+2024-I;Ago;Lima Centro;Manana;4 Sec;B;2024-I-LimaCentro-4SecB-M;Biologia;D724;32;0;85.2;Alta;11.06;20;12
+2024-I;Jul;San Juan;Manana;5 Sec;C;2024-I-SanJuan-5SecC-M;Biologia;D815;38;0;94.3;Muy Alta;12.51;28;10
+2025-I;Mar;Lima Centro;Tarde;1 Sec;A;2025-I-LimaCentro-1SecA-T;Quimica;D844;23;0;84.2;Alta;9.06;12;11
+2025-I;Oct;Lima Centro;Manana;1 Sec;D;2025-I-LimaCentro-1SecD-M;Historia;D291;41;0;76.1;Media;13.27;28;13
+2025-I;Ago;Ate;Tarde;2 Sec;A;2025-I-Ate-2SecA-T;Fisica;D426;36;0;83.6;Alta;9.99;20;16
+2025-I;Jun;Callao;Tarde;1 Sec;B;2025-I-Callao-1SecB-T;Biologia;D818;37;0;91.0;Muy Alta;12.45;26;11
+2024-II;Oct;Callao;Manana;4 Sec;D;2024-II-Callao-4SecD-M;Fisica;D330;38;0;78.9;Media;11.65;23;15
+2025-I;Oct;Lima Centro;Tarde;5 Sec;D;2025-I-LimaCentro-5SecD-T;Biologia;D724;28;0;70.4;Media;8.19;11;17
+2024-I;Ago;Ate;Manana;3 Sec;B;2024-I-Ate-3SecB-M;Ciencia;D110;38;0;96.6;Muy Alta;13.78;31;7
+2024-II;Ago;Callao;Tarde;1 Sec;D;2024-II-Callao-1SecD-T;Ingles;D567;39;0;83.6;Alta;13.57;29;10
+2024-I;Mar;Ate;Manana;5 Sec;B;2024-I-Ate-5SecB-M;Comunicacion;D909;39;0;81.4;Alta;9.92;21;18
+2024-II;Nov;San Juan;Tarde;3 Sec;B;2024-II-SanJuan-3SecB-T;Comunicacion;D562;25;0;84.2;Alta;12.76;17;8
+2025-I;Mar;Callao;Manana;5 Sec;D;2025-I-Callao-5SecD-M;Ciencia;D344;25;0;85.4;Alta;11.49;16;9
+2024-II;Jun;Surco;Manana;1 Sec;A;2024-II-Surco-1SecA-M;Historia;D203;31;0;86.3;Alta;13.2;22;9
+2025-I;Mar;Ate;Tarde;1 Sec;D;2025-I-Ate-1SecD-T;Quimica;D533;35;0;85.7;Alta;9.57;19;16
+2024-II;Jul;Callao;Tarde;1 Sec;C;2024-II-Callao-1SecC-T;Comunicacion;D199;34;0;82.7;Alta;12.2;22;12
+2024-I;May;Lima Centro;Manana;5 Sec;C;2024-I-LimaCentro-5SecC-M;Historia;D291;32;0;83.3;Alta;10.56;19;13
+2024-I;Mar;Lima Centro;Manana;4 Sec;B;2024-I-LimaCentro-4SecB-M;Ingles;D966;34;1;77.1;Media;11.38;20;14
+2024-I;Sep;Surco;Noche;3 Sec;A;2024-I-Surco-3SecA-N;Ingles;D292;13;0;77.8;Media;13.14;9;4
+2024-II;Ago;Ate;Manana;2 Sec;D;2024-II-Ate-2SecD-M;Ingles;D934;39;0;77.8;Media;11.21;23;16
+2025-I;Abr;Ate;Tarde;1 Sec;D;2025-I-Ate-1SecD-T;Ciencia;D110;32;0;89.9;Alta;12.06;22;10
+2024-I;Sep;Lima Centro;Tarde;3 Sec;B;2024-I-LimaCentro-3SecB-T;Matematica;D465;36;0;83.5;Alta;9.86;20;16
+2024-II;Jul;Surco;Tarde;5 Sec;C;2024-II-Surco-5SecC-T;Biologia;D539;31;0;86.2;Alta;12.45;21;10
+2025-I;Oct;San Juan;Manana;1 Sec;A;2025-I-SanJuan-1SecA-M;Biologia;D815;31;0;83.3;Alta;10.83;18;13
+2024-II;Jun;Ate;Manana;5 Sec;D;2024-II-Ate-5SecD-M;Biologia;D127;41;0;87.5;Alta;11.25;26;15
+2025-I;Jul;San Juan;Tarde;5 Sec;C;2025-I-SanJuan-5SecC-T;Quimica;D395;26;0;68.9;Baja;10.33;13;13
+2025-I;Sep;Ate;Manana;2 Sec;C;2025-I-Ate-2SecC-M;Comunicacion;D909;37;0;91.0;Muy Alta;11.69;25;12
+2024-II;Nov;Lima Centro;Tarde;5 Sec;C;2024-II-LimaCentro-5SecC-T;Quimica;D844;23;0;83.5;Alta;11.99;15;8
+2024-II;Sep;Surco;Tarde;1 Sec;C;2024-II-Surco-1SecC-T;Ciencia;D130;35;0;86.3;Alta;9.97;20;15
+2024-I;Nov;Lima Centro;Tarde;3 Sec;D;2024-I-LimaCentro-3SecD-T;Quimica;D844;33;1;87.7;Alta;10.91;20;13
+2024-II;Abr;Lima Centro;Manana;5 Sec;B;2024-II-LimaCentro-5SecB-M;Fisica;D677;28;1;85.0;Alta;9.52;15;13
+2025-I;Jun;San Juan;Noche;3 Sec;D;2025-I-SanJuan-3SecD-N;Ingles;D269;19;0;76.9;Media;11.92;11;8
+2024-I;Oct;Ate;Tarde;1 Sec;A;2024-I-Ate-1SecA-T;Ingles;D934;36;0;74.7;Media;10.45;19;17
+2024-I;May;Ate;Manana;2 Sec;A;2024-I-Ate-2SecA-M;Economia;D876;34;1;83.4;Alta;11.32;21;13
+2024-I;Nov;Callao;Tarde;5 Sec;A;2024-I-Callao-5SecA-T;Historia;D246;21;0;91.6;Muy Alta;14.93;17;4
+2024-I;Sep;San Juan;Manana;4 Sec;B;2024-I-SanJuan-4SecB-M;Comunicacion;D562;36;2;81.5;Alta;12.54;24;12
+2024-I;May;Ate;Manana;4 Sec;C;2024-I-Ate-4SecC-M;Biologia;D127;29;1;84.5;Alta;10.7;17;12
+2025-I;Abr;Surco;Manana;2 Sec;D;2025-I-Surco-2SecD-M;Quimica;D890;37;0;86.5;Alta;11.17;23;14
+2024-II;Jun;Lima Centro;Manana;1 Sec;B;2024-II-LimaCentro-1SecB-M;Comunicacion;D599;44;0;100.0;Muy Alta;14.29;38;6
+2024-II;Mar;Ate;Manana;5 Sec;B;2024-II-Ate-5SecB-M;Ingles;D934;36;0;90.8;Muy Alta;14.22;29;7
+2024-I;Ago;Callao;Tarde;4 Sec;B;2024-I-Callao-4SecB-T;Historia;D246;36;0;79.8;Media;9.96;19;17
+2024-I;Mar;Surco;Tarde;1 Sec;A;2024-I-Surco-1SecA-T;Computacion;D149;36;0;89.9;Alta;12.57;26;10
+2024-II;Jul;Callao;Manana;2 Sec;D;2024-II-Callao-2SecD-M;Quimica;D828;34;1;95.4;Muy Alta;12.44;25;9
+2025-I;Ago;Ate;Noche;3 Sec;D;2025-I-Ate-3SecD-N;Biologia;D127;23;0;77.7;Media;9.17;11;12
+2024-I;Mar;Ate;Manana;5 Sec;B;2024-I-Ate-5SecB-M;Matematica;D906;35;0;96.2;Muy Alta;11.65;24;11
+2024-II;Oct;Lima Centro;Manana;1 Sec;C;2024-II-LimaCentro-1SecC-M;Biologia;D724;45;0;76.9;Media;13.98;33;12
+2024-II;Nov;San Juan;Tarde;4 Sec;D;2024-II-SanJuan-4SecD-T;Quimica;D395;24;1;73.3;Media;11.84;14;10
+2025-I;Jun;Lima Centro;Manana;5 Sec;C;2025-I-LimaCentro-5SecC-M;Historia;D291;25;0;86.1;Alta;11.41;16;9
+2024-I;Sep;Callao;Manana;3 Sec;C;2024-I-Callao-3SecC-M;Comunicacion;D199;29;0;95.8;Muy Alta;14.92;25;4
+2024-II;Jul;Callao;Manana;4 Sec;D;2024-II-Callao-4SecD-M;Matematica;D944;36;0;85.0;Alta;12.2;24;12
+2024-II;Oct;Lima Centro;Manana;5 Sec;C;2024-II-LimaCentro-5SecC-M;Economia;D261;33;0;95.3;Muy Alta;14.73;28;5
+2024-I;Jul;Ate;Manana;3 Sec;D;2024-I-Ate-3SecD-M;Ciencia;D110;48;0;81.4;Alta;7.53;20;28
+2024-II;Ago;Callao;Tarde;4 Sec;D;2024-II-Callao-4SecD-T;Matematica;D944;21;0;82.6;Alta;9.68;11;10
+2025-I;Jun;Ate;Manana;2 Sec;A;2025-I-Ate-2SecA-M;Historia;D583;41;1;86.1;Alta;10.62;25;16
+2024-I;May;Surco;Manana;3 Sec;C;2024-I-Surco-3SecC-M;Biologia;D539;43;0;90.8;Muy Alta;13.57;33;10
+2024-II;Sep;Callao;Tarde;4 Sec;C;2024-II-Callao-4SecC-T;Computacion;D744;18;0;85.2;Alta;12.4;12;6
+2024-I;Sep;Surco;Tarde;3 Sec;B;2024-I-Surco-3SecB-T;Comunicacion;D751;28;0;84.9;Alta;11.41;18;10
+2024-II;May;Ate;Manana;5 Sec;B;2024-II-Ate-5SecB-M;Biologia;D127;27;0;84.4;Alta;10.85;16;11
+2025-I;Sep;San Juan;Manana;2 Sec;A;2025-I-SanJuan-2SecA-M;Comunicacion;D562;29;0;79.1;Media;9.81;15;14
+2024-II;Abr;Callao;Noche;4 Sec;A;2024-II-Callao-4SecA-N;Ingles;D567;23;0;87.8;Alta;10.93;14;9
+2024-I;Jun;Callao;Manana;5 Sec;C;2024-I-Callao-5SecC-M;Ciencia;D344;34;1;86.7;Alta;10.32;20;14
+2024-I;Jul;Surco;Manana;4 Sec;C;2024-I-Surco-4SecC-M;Biologia;D539;39;0;87.2;Alta;12.63;27;12
+2024-II;Sep;Surco;Manana;4 Sec;A;2024-II-Surco-4SecA-M;Matematica;D261;32;0;90.4;Muy Alta;13.27;24;8
+2025-I;Nov;Lima Centro;Tarde;4 Sec;B;2025-I-LimaCentro-4SecB-T;Ingles;D966;36;1;80.7;Alta;13.87;26;10
+2024-II;Ago;Lima Centro;Tarde;1 Sec;D;2024-II-LimaCentro-1SecD-T;Computacion;D324;31;0;92.4;Muy Alta;11.61;21;10
+2024-II;May;Ate;Noche;5 Sec;A;2024-II-Ate-5SecA-N;Computacion;D170;22;1;86.4;Alta;10.94;13;9
+2025-I;Oct;Callao;Noche;3 Sec;C;2025-I-Callao-3SecC-N;Quimica;D828;22;0;68.1;Baja;11.42;12;10
+2024-I;Abr;Ate;Tarde;3 Sec;C;2024-I-Ate-3SecC-T;Biologia;D127;30;1;95.6;Muy Alta;15.04;26;4
+2025-I;Oct;Lima Centro;Manana;3 Sec;A;2025-I-LimaCentro-3SecA-M;Quimica;D844;44;0;85.8;Alta;10.66;26;18
+2024-II;Mar;Surco;Manana;1 Sec;D;2024-II-Surco-1SecD-M;Computacion;D149;42;0;90.6;Muy Alta;11.39;28;14
+2024-I;Jun;San Juan;Noche;4 Sec;C;2024-I-SanJuan-4SecC-N;Economia;D454;12;1;70.3;Media;11.83;7;5
+2025-I;Oct;Ate;Tarde;4 Sec;B;2025-I-Ate-4SecB-T;Computacion;D170;25;0;77.3;Media;8.94;12;13
+2024-I;May;Callao;Tarde;3 Sec;B;2024-I-Callao-3SecB-T;Computacion;D744;28;1;76.8;Media;11.49;17;11
+2024-I;Ago;San Juan;Noche;1 Sec;B;2024-I-SanJuan-1SecB-N;Computacion;D785;19;1;85.6;Alta;10.37;11;8
+2024-I;Nov;Ate;Manana;2 Sec;C;2024-I-Ate-2SecC-M;Comunicacion;D909;44;1;77.7;Media;13.18;30;14
+2024-II;Nov;Ate;Tarde;3 Sec;C;2024-II-Ate-3SecC-T;Biologia;D127;35;0;80.9;Alta;11.11;21;14
+2024-I;Jun;Surco;Tarde;2 Sec;C;2024-I-Surco-2SecC-T;Historia;D203;34;0;82.2;Alta;11.76;22;12
+2024-II;Mar;Surco;Manana;4 Sec;B;2024-II-Surco-4SecB-M;Ingles;D292;39;0;88.7;Alta;13.15;29;10
+2024-I;Jun;Callao;Tarde;4 Sec;A;2024-I-Callao-4SecA-T;Historia;D246;22;0;83.1;Alta;10.56;13;9
+2024-II;May;Ate;Manana;1 Sec;D;2024-II-Ate-1SecD-M;Quimica;D533;37;0;90.1;Muy Alta;11.88;25;12
+2024-I;Jul;Callao;Manana;2 Sec;B;2024-I-Callao-2SecB-M;Comunicacion;D199;31;0;92.7;Muy Alta;10.76;20;11
+2025-I;Sep;Surco;Tarde;5 Sec;C;2025-I-Surco-5SecC-T;Quimica;D890;29;1;83.6;Alta;10.35;16;13
+2025-I;Sep;Surco;Noche;5 Sec;A;2025-I-Surco-5SecA-N;Historia;D203;16;1;78.4;Media;11.91;10;6
+2024-I;Nov;Surco;Manana;3 Sec;B;2024-I-Surco-3SecB-M;Comunicacion;D751;35;0;73.0;Media;11.12;19;16
+2024-II;Oct;Callao;Manana;4 Sec;A;2024-II-Callao-4SecA-M;Economia;D633;42;0;90.9;Muy Alta;12.04;29;13
+2024-II;Mar;Lima Centro;Manana;4 Sec;B;2024-II-LimaCentro-4SecB-M;Quimica;D844;32;1;88.6;Alta;12.5;22;10
+2025-I;Jul;San Juan;Noche;1 Sec;D;2025-I-SanJuan-1SecD-N;Matematica;D171;29;0;86.1;Alta;12.9;21;8
+2024-I;Jul;San Juan;Manana;5 Sec;C;2024-I-SanJuan-5SecC-M;Historia;D452;30;0;84.5;Alta;13.2;21;9
+2024-II;Jun;Lima Centro;Tarde;1 Sec;B;2024-II-LimaCentro-1SecB-T;Fisica;D677;35;0;77.3;Media;9.43;17;18
+2025-I;Ago;San Juan;Tarde;4 Sec;C;2025-I-SanJuan-4SecC-T;Matematica;D171;29;1;87.1;Alta;12.35;20;9
+2025-I;Mar;Ate;Manana;4 Sec;A;2025-I-Ate-4SecA-M;Quimica;D533;27;0;88.2;Alta;11.45;17;10
+2024-II;Jun;Callao;Noche;2 Sec;B;2024-II-Callao-2SecB-N;Ciencia;D344;30;0;84.3;Alta;10.19;17;13
+2025-I;Ago;Ate;Manana;2 Sec;B;2025-I-Ate-2SecB-M;Economia;D876;41;0;91.2;Muy Alta;12.01;28;13
+2024-II;Jun;San Juan;Tarde;3 Sec;C;2024-II-SanJuan-3SecC-T;Historia;D452;29;0;80.4;Alta;9.59;15;14
+2024-I;Jul;Surco;Manana;4 Sec;A;2024-I-Surco-4SecA-M;Ingles;D292;37;0;77.3;Media;11.26;22;15
+2024-I;Ago;San Juan;Manana;1 Sec;A;2024-I-SanJuan-1SecA-M;Economia;D454;33;0;85.3;Alta;12.52;23;10
+2024-II;Abr;Ate;Tarde;4 Sec;A;2024-II-Ate-4SecA-T;Historia;D583;23;1;85.2;Alta;10.77;14;9
+2024-II;Ago;Surco;Manana;5 Sec;A;2024-II-Surco-5SecA-M;Biologia;D539;37;0;90.2;Muy Alta;12.62;27;10
+2025-I;Ago;Callao;Tarde;4 Sec;A;2025-I-Callao-4SecA-T;Historia;D246;35;0;83.4;Alta;12.71;24;11
+2025-I;Mar;Ate;Noche;5 Sec;D;2025-I-Ate-5SecD-N;Ingles;D934;24;1;86.2;Alta;12.89;17;7
+2024-I;Sep;Ate;Manana;3 Sec;D;2024-I-Ate-3SecD-M;Fisica;D426;47;0;86.8;Alta;10.98;29;18
+2024-II;Jul;Callao;Manana;2 Sec;C;2024-II-Callao-2SecC-M;Ingles;D567;36;0;84.9;Alta;11.66;23;13
+2025-I;Sep;San Juan;Manana;1 Sec;A;2025-I-SanJuan-1SecA-M;Ciencia;D883;37;1;87.2;Alta;11.88;25;12
+2024-II;Abr;Callao;Manana;2 Sec;C;2024-II-Callao-2SecC-M;Ciencia;D344;39;1;95.1;Muy Alta;9.69;23;16
+2024-I;Oct;San Juan;Tarde;3 Sec;D;2024-I-SanJuan-3SecD-T;Computacion;D785;33;1;83.5;Alta;10.79;20;13
+2025-I;Abr;Surco;Manana;3 Sec;D;2025-I-Surco-3SecD-M;Economia;D786;29;1;83.7;Alta;11.74;19;10
+2024-II;Mar;Lima Centro;Noche;1 Sec;A;2024-II-LimaCentro-1SecA-N;Historia;D291;25;0;78.6;Media;11.34;15;10
+2024-I;Ago;Lima Centro;Manana;4 Sec;C;2024-I-LimaCentro-4SecC-M;Comunicacion;D599;38;0;84.6;Alta;11.76;25;13
+2024-II;Oct;San Juan;Manana;3 Sec;D;2024-II-SanJuan-3SecD-M;Biologia;D815;29;0;76.8;Media;9.28;14;15
+2024-I;Abr;Callao;Manana;5 Sec;C;2024-I-Callao-5SecC-M;Biologia;D818;36;0;94.0;Muy Alta;13.08;27;9
+2024-I;Mar;Lima Centro;Manana;5 Sec;B;2024-I-LimaCentro-5SecB-M;Fisica;D677;33;0;90.1;Muy Alta;13.42;25;8
+2024-II;May;Surco;Tarde;2 Sec;C;2024-II-Surco-2SecC-T;Fisica;D879;34;1;90.2;Muy Alta;11.69;23;11
+2025-I;Sep;Callao;Manana;2 Sec;B;2025-I-Callao-2SecB-M;Ingles;D567;37;0;88.0;Alta;9.41;20;17
+2024-II;Oct;Ate;Tarde;1 Sec;C;2024-II-Ate-1SecC-T;Economia;D876;42;2;74.2;Media;12.29;26;16
+2024-I;May;San Juan;Tarde;4 Sec;B;2024-I-SanJuan-4SecB-T;Comunicacion;D562;20;0;81.3;Alta;11.42;12;8
+2024-II;Abr;Surco;Manana;3 Sec;D;2024-II-Surco-3SecD-M;Economia;D786;35;0;80.8;Alta;10.85;20;15
+2024-II;Sep;Lima Centro;Manana;3 Sec;A;2024-II-LimaCentro-3SecA-M;Matematica;D465;40;0;92.4;Muy Alta;11.12;26;14
+2024-II;Ago;Ate;Tarde;2 Sec;B;2024-II-Ate-2SecB-T;Biologia;D127;38;0;89.6;Alta;12.79;28;10
+2024-I;Abr;Surco;Noche;1 Sec;C;2024-I-Surco-1SecC-N;Economia;D786;22;0;86.5;Alta;14.22;17;5
+2025-I;Oct;Callao;Manana;2 Sec;B;2025-I-Callao-2SecB-M;Quimica;D828;43;0;82.5;Alta;11.85;28;15
+2024-I;Mar;Surco;Manana;2 Sec;C;2024-I-Surco-2SecC-M;Ingles;D292;39;0;86.2;Alta;13.07;28;11
+2024-I;Ago;Ate;Tarde;4 Sec;A;2024-I-Ate-4SecA-T;Ciencia;D110;36;1;93.9;Muy Alta;11.11;24;12
+2025-I;Jul;Callao;Tarde;4 Sec;C;2025-I-Callao-4SecC-T;Computacion;D744;23;0;76.8;Media;12.35;14;9
+2025-I;Mar;Callao;Manana;3 Sec;D;2025-I-Callao-3SecD-M;Biologia;D818;40;2;78.0;Media;12.26;26;14
+2024-I;Sep;Lima Centro;Manana;4 Sec;A;2024-I-LimaCentro-4SecA-M;Computacion;D324;38;1;88.1;Alta;13.27;28;10
+2024-I;Abr;Callao;Manana;4 Sec;D;2024-I-Callao-4SecD-M;Ciencia;D344;38;1;95.3;Muy Alta;13.97;31;7
+2024-II;Abr;Ate;Noche;1 Sec;D;2024-II-Ate-1SecD-N;Economia;D876;30;1;81.5;Alta;10.67;17;13
+2025-I;Jun;Ate;Manana;5 Sec;D;2025-I-Ate-5SecD-M;Quimica;D533;28;0;97.1;Muy Alta;11.76;20;8
+2024-I;Nov;Ate;Tarde;2 Sec;C;2024-I-Ate-2SecC-T;Ingles;D934;31;0;92.8;Muy Alta;11.53;21;10
+2024-II;Sep;Callao;Manana;1 Sec;B;2024-II-Callao-1SecB-M;Economia;D633;38;0;81.9;Alta;12.59;26;12
+2024-I;Oct;San Juan;Tarde;1 Sec;D;2024-I-SanJuan-1SecD-T;Ciencia;D883;35;1;76.5;Media;12.12;22;13
+2025-I;Jul;Ate;Manana;4 Sec;C;2025-I-Ate-4SecC-M;Economia;D876;39;0;79.9;Media;14.04;29;10
+2024-II;Ago;Surco;Tarde;1 Sec;B;2024-II-Surco-1SecB-T;Quimica;D890;36;1;89.9;Alta;12.4;25;11
+2024-II;Sep;Ate;Manana;5 Sec;D;2024-II-Ate-5SecD-M;Matematica;D906;26;0;90.5;Muy Alta;10.02;15;11
+2024-II;Jun;Callao;Tarde;4 Sec;B;2024-II-Callao-4SecB-T;Economia;D633;20;1;86.6;Alta;11.07;12;8
+2024-II;Jun;Callao;Noche;1 Sec;A;2024-II-Callao-1SecA-N;Computacion;D744;18;0;81.5;Alta;10.72;10;8
+2024-I;Jul;Callao;Manana;4 Sec;D;2024-I-Callao-4SecD-M;Quimica;D828;28;0;100.0;Muy Alta;9.56;17;11
+2024-II;Mar;Callao;Manana;4 Sec;C;2024-II-Callao-4SecC-M;Comunicacion;D199;34;0;91.3;Muy Alta;11.26;22;12
+2025-I;Jul;Surco;Tarde;1 Sec;D;2025-I-Surco-1SecD-T;Computacion;D149;27;0;89.8;Alta;14.83;22;5
+2025-I;Abr;Ate;Manana;5 Sec;A;2025-I-Ate-5SecA-M;Computacion;D170;43;0;93.8;Muy Alta;11.74;30;13
+2024-II;Oct;San Juan;Manana;4 Sec;D;2024-II-SanJuan-4SecD-M;Matematica;D171;40;0;88.4;Alta;10.75;25;15
+2024-II;Abr;Lima Centro;Tarde;3 Sec;A;2024-II-LimaCentro-3SecA-T;Quimica;D844;33;0;80.4;Alta;10.22;18;15
+2024-I;Mar;Lima Centro;Manana;4 Sec;C;2024-I-LimaCentro-4SecC-M;Ingles;D966;40;0;96.3;Muy Alta;12.55;30;10
+2024-II;Abr;Lima Centro;Tarde;5 Sec;A;2024-II-LimaCentro-5SecA-T;Comunicacion;D599;24;0;81.9;Alta;10.2;13;11
+2025-I;May;Surco;Manana;5 Sec;C;2025-I-Surco-5SecC-M;Matematica;D261;34;0;83.3;Alta;12.82;24;10
+2024-I;Sep;Surco;Tarde;1 Sec;C;2024-I-Surco-1SecC-T;Fisica;D879;37;0;98.9;Muy Alta;9.63;23;14
+2025-I;Jun;Callao;Tarde;2 Sec;C;2025-I-Callao-2SecC-T;Ciencia;D344;35;1;81.2;Alta;11.41;21;14
+2025-I;Jul;San Juan;Manana;2 Sec;A;2025-I-SanJuan-2SecA-M;Biologia;D815;46;0;86.5;Alta;12.23;31;15
+2024-II;Abr;San Juan;Tarde;4 Sec;A;2024-II-SanJuan-4SecA-T;Economia;D454;32;0;86.9;Alta;11.96;21;11
+2024-II;Abr;Ate;Noche;3 Sec;C;2024-II-Ate-3SecC-N;Economia;D876;21;0;74.4;Media;12.59;13;8
+2024-I;Abr;Lima Centro;Manana;3 Sec;B;2024-I-LimaCentro-3SecB-M;Computacion;D324;44;0;91.0;Muy Alta;10.82;28;16
+2024-I;Oct;Lima Centro;Noche;5 Sec;A;2024-I-LimaCentro-5SecA-N;Matematica;D465;19;0;82.9;Alta;12.23;12;7
+2025-I;Ago;Surco;Noche;1 Sec;C;2025-I-Surco-1SecC-N;Historia;D203;18;0;73.2;Media;9.43;8;10
+2024-II;May;Ate;Tarde;2 Sec;C;2024-II-Ate-2SecC-T;Matematica;D906;27;0;82.5;Alta;11.1;16;11
+2025-I;Mar;Lima Centro;Manana;4 Sec;B;2025-I-LimaCentro-4SecB-M;Ingles;D966;36;1;87.1;Alta;11.59;23;13
+2024-I;Jun;Ate;Manana;3 Sec;B;2024-I-Ate-3SecB-M;Economia;D876;40;1;86.6;Alta;11.73;26;14
+2025-I;May;Ate;Manana;1 Sec;C;2025-I-Ate-1SecC-M;Quimica;D533;40;1;90.4;Muy Alta;12.52;29;11
+2025-I;Abr;San Juan;Tarde;5 Sec;D;2025-I-SanJuan-5SecD-T;Quimica;D395;38;0;81.3;Alta;10.63;22;16
+2025-I;Nov;Lima Centro;Manana;2 Sec;A;2025-I-LimaCentro-2SecA-M;Historia;D291;47;2;84.7;Alta;11.57;30;17
+2024-I;Ago;Lima Centro;Manana;1 Sec;C;2024-I-LimaCentro-1SecC-M;Ingles;D966;33;0;86.8;Alta;11.95;22;11
+2024-I;Mar;Surco;Manana;3 Sec;C;2024-I-Surco-3SecC-M;Economia;D786;32;1;88.2;Alta;11.16;20;12
+2024-I;Oct;San Juan;Noche;5 Sec;D;2024-I-SanJuan-5SecD-N;Ciencia;D883;12;1;92.8;Muy Alta;12.31;8;4
+2024-I;Mar;Lima Centro;Noche;2 Sec;B;2024-I-LimaCentro-2SecB-N;Matematica;D465;29;0;74.8;Media;8.92;13;16
+2025-I;Sep;San Juan;Manana;1 Sec;D;2025-I-SanJuan-1SecD-M;Economia;D454;43;1;69.8;Baja;8.93;19;24
+2024-II;May;San Juan;Tarde;5 Sec;A;2024-II-SanJuan-5SecA-T;Matematica;D171;28;0;85.2;Alta;9.31;15;13
+2025-I;Jun;Callao;Tarde;1 Sec;C;2025-I-Callao-1SecC-T;Fisica;D330;29;0;79.4;Media;13.16;20;9
+2024-I;Mar;Surco;Manana;1 Sec;D;2024-I-Surco-1SecD-M;Comunicacion;D751;42;0;90.0;Muy Alta;10.3;25;17
+2024-I;Mar;Ate;Manana;5 Sec;D;2024-I-Ate-5SecD-M;Comunicacion;D909;42;0;83.0;Alta;10.82;25;17
+2025-I;Sep;Surco;Manana;1 Sec;B;2025-I-Surco-1SecB-M;Fisica;D879;31;0;94.1;Muy Alta;10.11;19;12
+2025-I;Ago;Ate;Tarde;1 Sec;D;2025-I-Ate-1SecD-T;Comunicacion;D909;29;0;81.5;Alta;11.52;18;11
+2024-I;Ago;Ate;Manana;4 Sec;B;2024-I-Ate-4SecB-M;Economia;D876;44;0;85.8;Alta;10.29;26;18
+2025-I;Sep;Lima Centro;Manana;4 Sec;B;2025-I-LimaCentro-4SecB-M;Quimica;D844;38;1;89.9;Alta;12.12;26;12
+2024-II;Nov;San Juan;Manana;2 Sec;A;2024-II-SanJuan-2SecA-M;Fisica;D801;47;0;84.2;Alta;13.7;35;12
+2024-I;Sep;San Juan;Manana;1 Sec;C;2024-I-SanJuan-1SecC-M;Computacion;D785;50;0;84.1;Alta;9.45;27;23
+2024-II;Mar;San Juan;Tarde;1 Sec;B;2024-II-SanJuan-1SecB-T;Comunicacion;D562;31;1;76.4;Media;13.17;21;10
+2024-I;Oct;Lima Centro;Manana;3 Sec;B;2024-I-LimaCentro-3SecB-M;Comunicacion;D599;27;0;79.7;Media;11.2;16;11
+2024-II;Jul;Lima Centro;Manana;5 Sec;A;2024-II-LimaCentro-5SecA-M;Ciencia;D827;27;0;87.5;Alta;12.55;19;8
+2025-I;Oct;Callao;Tarde;3 Sec;D;2025-I-Callao-3SecD-T;Ciencia;D344;30;0;85.1;Alta;11.38;19;11
+2025-I;Jul;Surco;Manana;2 Sec;B;2025-I-Surco-2SecB-M;Ingles;D292;27;0;89.3;Alta;14.18;21;6
+2024-I;Jun;Surco;Tarde;1 Sec;C;2024-I-Surco-1SecC-T;Ciencia;D130;42;0;93.3;Muy Alta;10.38;26;16
+2024-II;May;Ate;Manana;5 Sec;D;2024-II-Ate-5SecD-M;Quimica;D533;23;0;81.6;Alta;10.69;13;10
+2024-I;Ago;San Juan;Manana;2 Sec;A;2024-I-SanJuan-2SecA-M;Computacion;D785;29;1;89.1;Alta;10.69;18;11
+2025-I;Ago;San Juan;Tarde;4 Sec;C;2025-I-SanJuan-4SecC-T;Economia;D454;29;0;90.1;Muy Alta;9.33;16;13
+2024-II;Nov;Ate;Manana;2 Sec;D;2024-II-Ate-2SecD-M;Comunicacion;D909;31;0;87.4;Alta;7.35;14;17
+2024-II;Jun;Ate;Noche;5 Sec;D;2024-II-Ate-5SecD-N;Matematica;D906;22;0;86.0;Alta;9.3;11;11
+2024-I;Oct;Surco;Noche;5 Sec;C;2024-I-Surco-5SecC-N;Fisica;D879;16;0;76.5;Media;10.05;8;8
